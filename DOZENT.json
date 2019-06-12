@@ -1,1 +1,2222 @@
-[{"DOZENTKUERZEL":"KY","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Jan","NACHNAME":"Karpe","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"KI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Friedrich","NACHNAME":"Knittel","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"KC","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Heribert","NACHNAME":"Koch","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"K\u00d6","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Lutz","NACHNAME":"K\u00f6hler","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"LG","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Georg","NACHNAME":"Landsberg, von","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"JD","FACHBEREICH":"20","ANREDE":null,"TITEL":null,"VORNAME":"Jeder","NACHNAME":"Dozent","FUNKTION":"Lehrkraft","ZEITSTEMPEL":"25.06.07"},{"DOZENTKUERZEL":"SM","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Dr.","VORNAME":"Ane","NACHNAME":"Schmitter","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"30.05.15"},{"DOZENTKUERZEL":"VI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Frank","NACHNAME":"Victor","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"WB","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Hartmut","NACHNAME":"Westenberger","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"DC","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Hans Peter","NACHNAME":"Dick","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"ES","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dipl. Ing.","VORNAME":"Thomas","NACHNAME":"Einsporn","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"KB","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Sabine","NACHNAME":"Kirste","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"G\u00df","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Peter","NACHNAME":"Gro\u00dfmann","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.01.05"},{"DOZENTKUERZEL":"BW","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":null,"NACHNAME":"Bolewsky","FUNKTION":"Lehrkraft","ZEITSTEMPEL":"20.07.05"},{"DOZENTKUERZEL":"GM","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Hartmut","NACHNAME":"Geimer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"04.09.10"},{"DOZENTKUERZEL":"KH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof.","VORNAME":"Hans","NACHNAME":"Kornacher","FUNKTION":"Professor","ZEITSTEMPEL":"16.02.07"},{"DOZENTKUERZEL":"NO","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof.","VORNAME":"Christian","NACHNAME":"Noss","FUNKTION":"Professor","ZEITSTEMPEL":"09.03.07"},{"DOZENTKUERZEL":"FN","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof.","VORNAME":"Rolf","NACHNAME":"Franken","FUNKTION":"Professor","ZEITSTEMPEL":"25.06.07"},{"DOZENTKUERZEL":"PL","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Rolf","NACHNAME":"Plickert","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"KV","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Daniel","NACHNAME":"Klein","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"12.03.08"},{"DOZENTKUERZEL":"LS","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Nico","NACHNAME":"Li\u00df","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.07.08"},{"DOZENTKUERZEL":"HR","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Andreas","NACHNAME":"Hurst","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"BI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Thomas","NACHNAME":"Bartz-Beielstein","FUNKTION":"Professor","ZEITSTEMPEL":"28.01.05"},{"DOZENTKUERZEL":"DP","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Frank","NACHNAME":"Dopatka","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"05.07.07"},{"DOZENTKUERZEL":"RL","FACHBEREICH":"20","ANREDE":"Frau","TITEL":" ","VORNAME":"Susanne","NACHNAME":"Roll","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"05.07.07"},{"DOZENTKUERZEL":"KK","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Jochen","NACHNAME":"Klein","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"05.07.07"},{"DOZENTKUERZEL":"HH","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Kristine","NACHNAME":"Hein","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"ZH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"J\u00f6rg","NACHNAME":"Ziegenhirt","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"26.09.06"},{"DOZENTKUERZEL":"FS","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Arash","NACHNAME":"Faroughi","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"24.09.09"},{"DOZENTKUERZEL":"DH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Daniel","NACHNAME":"Dahl","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"10.02.10"},{"DOZENTKUERZEL":"FO","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Roozbeh","NACHNAME":"Faroughi","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"24.09.09"},{"DOZENTKUERZEL":"OW","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dipl.-Inf.","VORNAME":"Patrick","NACHNAME":"Odenwald","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"10.02.10"},{"DOZENTKUERZEL":"GR","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Christiane","NACHNAME":"Gr\u00fcnloh","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"23.02.10"},{"DOZENTKUERZEL":"PV","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Stephan","NACHNAME":"Pavlovic","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"26.08.09"},{"DOZENTKUERZEL":"HZ","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Dipl.-Ing","VORNAME":"Amina","NACHNAME":"Hadzeric","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"PG","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Michael","NACHNAME":"Pongs","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"GL","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":" ","NACHNAME":"Gerlach","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"26.09.06"},{"DOZENTKUERZEL":"EK","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Stefan","NACHNAME":"Eckstein","FUNKTION":"Professor","ZEITSTEMPEL":"02.09.09"},{"DOZENTKUERZEL":"BJ","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Jochen","NACHNAME":"Blaurock","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"MA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Hans","NACHNAME":"Marenbach","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"12.03.04"},{"DOZENTKUERZEL":"ST","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Manfred","NACHNAME":"Stern","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"03.11.05"},{"DOZENTKUERZEL":"RS","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Michael","NACHNAME":"Rottsch\u00e4fer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"LA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Elmar","NACHNAME":"Lau","FUNKTION":"Lehrkraft","ZEITSTEMPEL":"26.09.06"},{"DOZENTKUERZEL":"PB","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Uwe","NACHNAME":"Poborski","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"17.03.08"},{"DOZENTKUERZEL":"NE","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Adrian","NACHNAME":"Neagu","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"SC","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Rainer","NACHNAME":"Scheuring","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"SR","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Hermann","NACHNAME":"Siebdrat","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"WL","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Friedrich","NACHNAME":"Wilke","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"B\u00c4","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Hartmut","NACHNAME":"Baerwolff","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"G\u00dc","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Holger","NACHNAME":"G\u00fcnther","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"DT","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Kosta","NACHNAME":"Dimitriou","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"NA","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":null,"NACHNAME":"Nachfolger","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"FG","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Edwin","NACHNAME":"Ferger","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"HK","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Julia-Isabell","NACHNAME":"Henke","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"KS","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Thomas","NACHNAME":"Kriener","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"SY","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Andreas","NACHNAME":"Schmengler","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"BA","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Mark","NACHNAME":"Bujack","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"BR","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Beate","NACHNAME":"Breiderhoff","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"WY","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Mario","NACHNAME":"Winter","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"SZ","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Horst","NACHNAME":"Stenzel","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"GH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Gerhard","NACHNAME":"Hartmann","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"DR","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof.","VORNAME":"Torsten C. E.","NACHNAME":"Drescher","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"NN","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"NN","NACHNAME":"NN","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"06.03.03"},{"DOZENTKUERZEL":"BC","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Manfred","NACHNAME":"Bundschuh","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"WZ","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Steffen","NACHNAME":"Wilde","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"29.05.03"},{"DOZENTKUERZEL":"SF","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Siegfried","NACHNAME":"Stumpf","FUNKTION":"Professor","ZEITSTEMPEL":"09.06.03"},{"DOZENTKUERZEL":"KL","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Heiner","NACHNAME":"Klocke","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"SH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Hans L.","NACHNAME":"Stahl","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"KR","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Stefan","NACHNAME":"Karsch","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"SI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Juergen","NACHNAME":"Schmitz","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"JX","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Bruno","NACHNAME":"Jaax","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"EN","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Linda","NACHNAME":"Enders","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"16.03.05"},{"DOZENTKUERZEL":"KG","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Wolfgang","NACHNAME":"Konen","FUNKTION":"Professor","ZEITSTEMPEL":"22.07.04"},{"DOZENTKUERZEL":"BE","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Matina","NACHNAME":"Behr","FUNKTION":"Professor","ZEITSTEMPEL":"22.07.04"},{"DOZENTKUERZEL":"GY","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Torsten","NACHNAME":"Gesper","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"17.07.03"},{"DOZENTKUERZEL":"KW","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Kerstin","NACHNAME":"Krey","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"17.07.03"},{"DOZENTKUERZEL":"WF","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Peter","NACHNAME":"Wolff","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"AG","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dipl.Ing.","VORNAME":"Aksel","NACHNAME":"Gross","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"01.10.10"},{"DOZENTKUERZEL":"AM","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Alex","NACHNAME":"Maier","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"15.02.11"},{"DOZENTKUERZEL":"EM","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"DiplW.-Inf.","VORNAME":"Elizabeth Ango","NACHNAME":"Fomuso Ekellem","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"16.03.05"},{"DOZENTKUERZEL":"PE","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Andreas","NACHNAME":"Peters","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.03.11"},{"DOZENTKUERZEL":"BG","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Marko","NACHNAME":"Boger","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.09.11"},{"DOZENTKUERZEL":"HD","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"M.Sc.","VORNAME":"Albert","NACHNAME":"Hamidullin","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"RB","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Roman","NACHNAME":"Bartnik","FUNKTION":"Professor","ZEITSTEMPEL":"06.02.19"},{"DOZENTKUERZEL":"BTH","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Bastian","NACHNAME":"Thelen","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"19.03.15"},{"DOZENTKUERZEL":"DE","FACHBEREICH":"20","ANREDE":null,"TITEL":null,"VORNAME":null,"NACHNAME":"Dekant","FUNKTION":null,"ZEITSTEMPEL":"11.02.19"},{"DOZENTKUERZEL":"WD","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Dennis Christian","NACHNAME":"Wilk","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"19.02.19"},{"DOZENTKUERZEL":"MZ","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Martin","NACHNAME":"Zaefferer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"01.03.19"},{"DOZENTKUERZEL":"JS","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"M.SC.","VORNAME":"Jan","NACHNAME":"Strohschein","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"11.02.19"},{"DOZENTKUERZEL":"TJ","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"J\u00fcrgen","NACHNAME":"Tennie","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"GK","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Klaus","NACHNAME":"Giebermann","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"GD","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Daniel","NACHNAME":"Gaida","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"GC","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Robert","NACHNAME":"Giacinto","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"05.07.07"},{"DOZENTKUERZEL":"GS","FACHBEREICH":"19","ANREDE":"Frau","TITEL":" ","VORNAME":"Stefanie","NACHNAME":"Gruttauer","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"28.02.13"},{"DOZENTKUERZEL":"AS","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Allan","NACHNAME":"Spence","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.02.13"},{"DOZENTKUERZEL":"MU","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Udo","NACHNAME":"Maier","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"26.08.13"},{"DOZENTKUERZEL":"MR","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Guido","NACHNAME":"M\u00fcnster","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"26.08.13"},{"DOZENTKUERZEL":"KM","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Manuel","NACHNAME":"Krischer","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"26.08.13"},{"DOZENTKUERZEL":"M\u00dc","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Thomas","NACHNAME":"M\u00fcnster","FUNKTION":"Professor","ZEITSTEMPEL":"09.02.14"},{"DOZENTKUERZEL":"BF","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Stefan","NACHNAME":"Bergfeld","FUNKTION":"Professor","ZEITSTEMPEL":"21.02.14"},{"DOZENTKUERZEL":"WI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Christian","NACHNAME":"Witte","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"30.05.15"},{"DOZENTKUERZEL":"FB","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Andreas","NACHNAME":"Fischbach","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"19.03.15"},{"DOZENTKUERZEL":"BS","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Dennis","NACHNAME":"Buderus","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.08.14"},{"DOZENTKUERZEL":"BEN","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Stefan","NACHNAME":"Bente","FUNKTION":"Professor","ZEITSTEMPEL":"17.03.15"},{"DOZENTKUERZEL":"KU","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Jan","NACHNAME":"Kus","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"TI","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Patrick","NACHNAME":"Tichelmann","FUNKTION":"Professor","ZEITSTEMPEL":"02.09.15"},{"DOZENTKUERZEL":"BY","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Matthias","NACHNAME":"B\u00f6hmer","FUNKTION":"Professor","ZEITSTEMPEL":null},{"DOZENTKUERZEL":"HO","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Dr.","VORNAME":"Konstantina","NACHNAME":"Harra\u00df","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"12.10.15"},{"DOZENTKUERZEL":"TB","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Diplom-Kultu","VORNAME":"Tuula","NACHNAME":"Bockem\u00fchl-Simon","FUNKTION":"Lehrkraft","ZEITSTEMPEL":"08.09.16"},{"DOZENTKUERZEL":"EO","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Youssef","NACHNAME":"El Ouadoudi","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"06.09.16"},{"DOZENTKUERZEL":"PS","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Pauline","NACHNAME":"Stenschke","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"08.09.16"},{"DOZENTKUERZEL":"DO","FACHBEREICH":"19","ANREDE":"Frau","TITEL":" ","VORNAME":"Daniela","NACHNAME":"Otto","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"09.11.16"},{"DOZENTKUERZEL":"RH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Jackson","NACHNAME":"Roehrig","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"NB","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Boris","NACHNAME":"Naujoks","FUNKTION":"Professor","ZEITSTEMPEL":"16.03.05"},{"DOZENTKUERZEL":"FM","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Martina","NACHNAME":"Friese","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"16.03.05"},{"DOZENTKUERZEL":"GW","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Damian","NACHNAME":"Gawenda","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"23.02.10"},{"DOZENTKUERZEL":"AK","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"M.Sc.","VORNAME":"Andre","NACHNAME":"Kasper","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"23.02.10"},{"DOZENTKUERZEL":"TE","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Dr.","VORNAME":"Carola","NACHNAME":"de Teff\u00e8","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"16.03.05"},{"DOZENTKUERZEL":"LK","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Simone","NACHNAME":"Lake","FUNKTION":"Professorin","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"PM","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Michael","NACHNAME":"Pongs","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"FR","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Holger","NACHNAME":"Fischer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"02.03.12"},{"DOZENTKUERZEL":"SL","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Uwe","NACHNAME":"Stoklossa","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"30.05.15"},{"DOZENTKUERZEL":"ZA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Juri","NACHNAME":"Zakrevski","FUNKTION":"Lehrkraft","ZEITSTEMPEL":"28.02.13"},{"DOZENTKUERZEL":"BN","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Hans-J\u00fcrgen","NACHNAME":"Bender","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.02.13"},{"DOZENTKUERZEL":"ML","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Lutz","NACHNAME":"M\u00fcller","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"09.02.14"},{"DOZENTKUERZEL":"SW","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Sascha","NACHNAME":"Schewe","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"10.03.14"},{"DOZENTKUERZEL":"EG","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Monika","NACHNAME":"Engelen","FUNKTION":"Professor","ZEITSTEMPEL":"22.05.14"},{"DOZENTKUERZEL":"EA","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Martin","NACHNAME":"Eisemann","FUNKTION":"Professor","ZEITSTEMPEL":"18.03.15"},{"DOZENTKUERZEL":"KO","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof.","VORNAME":"Christian","NACHNAME":"Kohls","FUNKTION":"Professor","ZEITSTEMPEL":"10.09.14"},{"DOZENTKUERZEL":"SG","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"J\u00fcrgen","NACHNAME":"Sleegers","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"01.10.15"},{"DOZENTKUERZEL":"WE","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Christina","NACHNAME":"Werner","FUNKTION":"Professor","ZEITSTEMPEL":"17.05.16"},{"DOZENTKUERZEL":"DA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Denis","NACHNAME":"Anders","FUNKTION":"Professor","ZEITSTEMPEL":"02.09.16"},{"DOZENTKUERZEL":"AR","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.-Ing.","VORNAME":"Amr","NACHNAME":"Kandil","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"02.09.16"},{"DOZENTKUERZEL":"WA","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Peter","NACHNAME":"Wagner","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"23.02.10"},{"DOZENTKUERZEL":"SJ","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr. ","VORNAME":"Jo","NACHNAME":"Spaubeck","FUNKTION":"Professor","ZEITSTEMPEL":"08.11.16"},{"DOZENTKUERZEL":"PA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":" ","VORNAME":"Paul","NACHNAME":"Bagiu","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"09.11.16"},{"DOZENTKUERZEL":"JT","FACHBEREICH":"19","ANREDE":"Frau","TITEL":" ","VORNAME":"Jana","NACHNAME":"Tessmer","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"09.11.16"},{"DOZENTKUERZEL":"MS","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Mei-Hsiang","NACHNAME":"Siebenhaar","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"15.03.11"},{"DOZENTKUERZEL":"ZW","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Florian","NACHNAME":"Zwanzig","FUNKTION":"Professor","ZEITSTEMPEL":"21.08.14"},{"DOZENTKUERZEL":"GI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Fotios","NACHNAME":"Giannakopoulos","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"05.07.07"},{"DOZENTKUERZEL":"SE","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dipl.-Ing.","VORNAME":"Frank","NACHNAME":"Sch\u00e4fer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"BU","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Ludger","NACHNAME":"Buchmann","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"06.05.12"},{"DOZENTKUERZEL":"SB","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Stefan","NACHNAME":"Breuer","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"TR","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Volker","NACHNAME":"Trauzettel","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"03.12.13"},{"DOZENTKUERZEL":"TH","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Dr.","VORNAME":"Tanja","NACHNAME":"Haag","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"22.08.14"},{"DOZENTKUERZEL":"AL","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Elena","NACHNAME":"Algorri","FUNKTION":"Professor","ZEITSTEMPEL":"22.08.14"},{"DOZENTKUERZEL":"LN","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Alexander","NACHNAME":"Lang","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"10.09.14"},{"DOZENTKUERZEL":"WO","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Christian","NACHNAME":"Wolf","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"FI","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Andreas","NACHNAME":"Fischbach","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"19.03.15"},{"DOZENTKUERZEL":"ZS","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Svetlana","NACHNAME":"Zakrevski","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"19.03.15"},{"DOZENTKUERZEL":"HS","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr.-Ing.","VORNAME":"Michael","NACHNAME":"Harra\u00df","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"BX","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Dirk","NACHNAME":"Breuer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"10.03.16"},{"DOZENTKUERZEL":"SK","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Sebastian","NACHNAME":"Kraft","FUNKTION":"Professor","ZEITSTEMPEL":"02.09.16"},{"DOZENTKUERZEL":"HI","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Dipl.Inf.","VORNAME":"Irina","NACHNAME":"Hein","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"22.09.16"},{"DOZENTKUERZEL":"BAG","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Samineh","NACHNAME":"Bagheri","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"23.02.10"},{"DOZENTKUERZEL":"RI","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Petra","NACHNAME":"Riemer","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"06.03.17"},{"DOZENTKUERZEL":"NP","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Nicolas","NACHNAME":"Pyschny","FUNKTION":"Professor","ZEITSTEMPEL":"09.03.17"},{"DOZENTKUERZEL":"AW","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Axel","NACHNAME":"Wellendorf","FUNKTION":"Professor","ZEITSTEMPEL":"09.03.17"},{"DOZENTKUERZEL":"LH","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. \n","VORNAME":"Wolfgang","NACHNAME":"Laubersheimer","FUNKTION":"Professor","ZEITSTEMPEL":"11.08.17"},{"DOZENTKUERZEL":"MJ","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Roman","NACHNAME":"Majewski","FUNKTION":"Professor","ZEITSTEMPEL":"07.09.17"},{"DOZENTKUERZEL":"IS","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Igor","NACHNAME":"Shevchuk","FUNKTION":"Professor","ZEITSTEMPEL":"25.08.17"},{"DOZENTKUERZEL":"DB","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Alexander","NACHNAME":"Dobrynin","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.08.17"},{"DOZENTKUERZEL":"CM","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Christian","NACHNAME":"Malek","FUNKTION":"Professor","ZEITSTEMPEL":"04.09.17"},{"DOZENTKUERZEL":"CH","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Christoph","NACHNAME":"Haag","FUNKTION":"Professor","ZEITSTEMPEL":"06.09.17"},{"DOZENTKUERZEL":"WH","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Heinz-Reiner","NACHNAME":"Wollersheim","FUNKTION":"Professor","ZEITSTEMPEL":"23.11.17"},{"DOZENTKUERZEL":"HB","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Rolf-Hubert","NACHNAME":"Bruns","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"24.11.17"},{"DOZENTKUERZEL":"FZ","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Andreas","NACHNAME":"Frantz","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"24.11.17"},{"DOZENTKUERZEL":"PZ","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Regine","NACHNAME":"Pelger-Arz","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":null},{"DOZENTKUERZEL":"SU","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Ines","NACHNAME":"Schulz","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"24.11.17"},{"DOZENTKUERZEL":"MT","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Dr. ","VORNAME":"Michael","NACHNAME":"Stricker","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"24.11.17"},{"DOZENTKUERZEL":"ME","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Dr.","VORNAME":"Benjamin","NACHNAME":"Meyer","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"23.02.18"},{"DOZENTKUERZEL":"DG","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Dimitri","NACHNAME":"Gusew","FUNKTION":null,"ZEITSTEMPEL":"19.03.18"},{"DOZENTKUERZEL":"SEI","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Jan","NACHNAME":"Seidler","FUNKTION":"Mitarbeiter","ZEITSTEMPEL":"03.05.18"},{"DOZENTKUERZEL":"MW","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Marcel","NACHNAME":"Walkowiak","FUNKTION":"Professor","ZEITSTEMPEL":"30.08.18"},{"DOZENTKUERZEL":"PY","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Thomas","NACHNAME":"Pytiak","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"06.03.17"},{"DOZENTKUERZEL":"WS","FACHBEREICH":"20","ANREDE":"Frau","TITEL":null,"VORNAME":"Ernestine","NACHNAME":"Wassermann","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"26.02.18"},{"DOZENTKUERZEL":"MB","FACHBEREICH":"19","ANREDE":"Herr","TITEL":" ","VORNAME":"Markus","NACHNAME":"Baum","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"19.03.18"},{"DOZENTKUERZEL":"TK","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Torsten","NACHNAME":"Klein","FUNKTION":"Professor","ZEITSTEMPEL":"02.08.18"},{"DOZENTKUERZEL":"RA","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Astrid","NACHNAME":"Rehorek","FUNKTION":"Professor","ZEITSTEMPEL":"21.08.18"},{"DOZENTKUERZEL":"DK","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Danka","NACHNAME":"Katrakova-Kr\u00fcger","FUNKTION":"Professor","ZEITSTEMPEL":"21.08.18"},{"DOZENTKUERZEL":"PK","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Peter","NACHNAME":"Kern","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"30.08.18"},{"DOZENTKUERZEL":"HF","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Marion","NACHNAME":"Halfmann","FUNKTION":"Professor","ZEITSTEMPEL":"08.03.04"},{"DOZENTKUERZEL":"GE","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Norbert","NACHNAME":"Gesper","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"17.07.03"},{"DOZENTKUERZEL":"AV","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Christian","NACHNAME":"Averkamp","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"BH","FACHBEREICH":"19","ANREDE":"Frau","TITEL":null,"VORNAME":"Anne","NACHNAME":"Breidenbach","FUNKTION":"Lehrbeauftragte","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"BL","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Christian","NACHNAME":"Blume","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"BO","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Michael","NACHNAME":"Bongards","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"B\u00d6","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"J\u00fcrgen","NACHNAME":"B\u00f6hm-Rietig","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"BT","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Arno","NACHNAME":"Bitzer","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"FA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Christoph","NACHNAME":"Franke","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"FK","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Bernd","NACHNAME":"Franzkoch","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"FY","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"OStR\u2019in","VORNAME":"Monika","NACHNAME":"Fey-McClean","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"G\u00d6","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Ulrich","NACHNAME":"Goette","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"HE","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Klaus","NACHNAME":"Heift","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"H\u00dc","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Bruno","NACHNAME":"H\u00fcnermund","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"KF","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Frithjof","NACHNAME":"Klasen","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"KN","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Andreas","NACHNAME":"Kampmann","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"KP","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Gabriele","NACHNAME":"Koeppe","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"KT","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Alfred","NACHNAME":"Kurtz","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"LB","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Karin","NACHNAME":"Lutterbeck","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"LE","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Edda","NACHNAME":"Leopold","FUNKTION":"Professor","ZEITSTEMPEL":"03.03.09"},{"DOZENTKUERZEL":"OT","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Walter","NACHNAME":"Ott","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"WRB","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Wolfgang","NACHNAME":"Roebig","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"R\u00dc","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Hans R.","NACHNAME":"Ruehmann","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"SD","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Wolfgang","NACHNAME":"Scheidt, von","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"S\u00d6","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Torsten","NACHNAME":"Strombach","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"SP","FACHBEREICH":"19","ANREDE":"Frau","TITEL":"Studienr\u00e4tin","VORNAME":"Ricarda","NACHNAME":"Spence","FUNKTION":"Lehrkraft","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"BD","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Frederik","NACHNAME":"Brand","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.01.05"},{"DOZENTKUERZEL":"WJ","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"J\u00fcrgen","NACHNAME":"Weber","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"WN","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Helmut","NACHNAME":"Winkel","FUNKTION":"Professor","ZEITSTEMPEL":"08.06.04"},{"DOZENTKUERZEL":"DS","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Holger","NACHNAME":"Duschneit","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"07.07.04"},{"DOZENTKUERZEL":"KA","FACHBEREICH":"20","ANREDE":"Herr","TITEL":null,"VORNAME":"Eric","NACHNAME":"Karstens","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"28.08.03"},{"DOZENTKUERZEL":"KE","FACHBEREICH":"19","ANREDE":"Herr","TITEL":"Prof.","VORNAME":"Christoph","NACHNAME":"Klein","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"HA","FACHBEREICH":"19","ANREDE":"Herr","TITEL":null,"VORNAME":"Dietmar","NACHNAME":"Hardt","FUNKTION":"Lehrbeauftragter","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"BB","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Birgit","NACHNAME":"Bertelsmeier","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"EH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Erich","NACHNAME":"Ehses","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"FW","FACHBEREICH":"20","ANREDE":"Frau","TITEL":"Prof. Dr.","VORNAME":"Heide","NACHNAME":"Faeskorn-Woyke","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"FH","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Kristian","NACHNAME":"Fischer","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"GT","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Peter","NACHNAME":"Goettel","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"HM","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Erwin","NACHNAME":"Holland-Moritz","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"},{"DOZENTKUERZEL":"JO","FACHBEREICH":"20","ANREDE":"Herr","TITEL":"Prof. Dr.","VORNAME":"Friedbert","NACHNAME":"Jochum","FUNKTION":"Professor","ZEITSTEMPEL":"27.01.03"}]
+[
+  {
+    "DOZENTKUERZEL": "KY",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Jan",
+    "NACHNAME": "Karpe",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "KI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Friedrich",
+    "NACHNAME": "Knittel",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "KC",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Heribert",
+    "NACHNAME": "Koch",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "K\u00d6",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Lutz",
+    "NACHNAME": "K\u00f6hler",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "LG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Georg",
+    "NACHNAME": "Landsberg, von",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "JD",
+    "FACHBEREICH": "20",
+    "ANREDE": null,
+    "TITEL": null,
+    "VORNAME": "Jeder",
+    "NACHNAME": "Dozent",
+    "FUNKTION": "Lehrkraft",
+    "ZEITSTEMPEL": "25.06.07"
+  },
+  {
+    "DOZENTKUERZEL": "SM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Dr.",
+    "VORNAME": "Ane",
+    "NACHNAME": "Schmitter",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "30.05.15"
+  },
+  {
+    "DOZENTKUERZEL": "VI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Frank",
+    "NACHNAME": "Victor",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "WB",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Hartmut",
+    "NACHNAME": "Westenberger",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "DC",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Hans Peter",
+    "NACHNAME": "Dick",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "ES",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dipl. Ing.",
+    "VORNAME": "Thomas",
+    "NACHNAME": "Einsporn",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "KB",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Sabine",
+    "NACHNAME": "Kirste",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "G\u00df",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Peter",
+    "NACHNAME": "Gro\u00dfmann",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.01.05"
+  },
+  {
+    "DOZENTKUERZEL": "BW",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": null,
+    "NACHNAME": "Bolewsky",
+    "FUNKTION": "Lehrkraft",
+    "ZEITSTEMPEL": "20.07.05"
+  },
+  {
+    "DOZENTKUERZEL": "GM",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Hartmut",
+    "NACHNAME": "Geimer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "04.09.10"
+  },
+  {
+    "DOZENTKUERZEL": "KH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof.",
+    "VORNAME": "Hans",
+    "NACHNAME": "Kornacher",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "16.02.07"
+  },
+  {
+    "DOZENTKUERZEL": "NO",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof.",
+    "VORNAME": "Christian",
+    "NACHNAME": "Noss",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "09.03.07"
+  },
+  {
+    "DOZENTKUERZEL": "FN",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof.",
+    "VORNAME": "Rolf",
+    "NACHNAME": "Franken",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "25.06.07"
+  },
+  {
+    "DOZENTKUERZEL": "PL",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Rolf",
+    "NACHNAME": "Plickert",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "KV",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Daniel",
+    "NACHNAME": "Klein",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "12.03.08"
+  },
+  {
+    "DOZENTKUERZEL": "LS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Nico",
+    "NACHNAME": "Li\u00df",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.07.08"
+  },
+  {
+    "DOZENTKUERZEL": "HR",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Andreas",
+    "NACHNAME": "Hurst",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "BI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Thomas",
+    "NACHNAME": "Bartz-Beielstein",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "28.01.05"
+  },
+  {
+    "DOZENTKUERZEL": "DP",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Frank",
+    "NACHNAME": "Dopatka",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "05.07.07"
+  },
+  {
+    "DOZENTKUERZEL": "RL",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": " ",
+    "VORNAME": "Susanne",
+    "NACHNAME": "Roll",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "05.07.07"
+  },
+  {
+    "DOZENTKUERZEL": "KK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Jochen",
+    "NACHNAME": "Klein",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "05.07.07"
+  },
+  {
+    "DOZENTKUERZEL": "HH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Kristine",
+    "NACHNAME": "Hein",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "ZH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "J\u00f6rg",
+    "NACHNAME": "Ziegenhirt",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "26.09.06"
+  },
+  {
+    "DOZENTKUERZEL": "FS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Arash",
+    "NACHNAME": "Faroughi",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "24.09.09"
+  },
+  {
+    "DOZENTKUERZEL": "DH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Daniel",
+    "NACHNAME": "Dahl",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "10.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "FO",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Roozbeh",
+    "NACHNAME": "Faroughi",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "24.09.09"
+  },
+  {
+    "DOZENTKUERZEL": "OW",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dipl.-Inf.",
+    "VORNAME": "Patrick",
+    "NACHNAME": "Odenwald",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "10.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "GR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Christiane",
+    "NACHNAME": "Gr\u00fcnloh",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "23.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "PV",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Stephan",
+    "NACHNAME": "Pavlovic",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "26.08.09"
+  },
+  {
+    "DOZENTKUERZEL": "HZ",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Dipl.-Ing",
+    "VORNAME": "Amina",
+    "NACHNAME": "Hadzeric",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "PG",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Michael",
+    "NACHNAME": "Pongs",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "GL",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": " ",
+    "NACHNAME": "Gerlach",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "26.09.06"
+  },
+  {
+    "DOZENTKUERZEL": "EK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Stefan",
+    "NACHNAME": "Eckstein",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "02.09.09"
+  },
+  {
+    "DOZENTKUERZEL": "BJ",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Jochen",
+    "NACHNAME": "Blaurock",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "MA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Hans",
+    "NACHNAME": "Marenbach",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "12.03.04"
+  },
+  {
+    "DOZENTKUERZEL": "ST",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Manfred",
+    "NACHNAME": "Stern",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "03.11.05"
+  },
+  {
+    "DOZENTKUERZEL": "RS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Michael",
+    "NACHNAME": "Rottsch\u00e4fer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "LA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Elmar",
+    "NACHNAME": "Lau",
+    "FUNKTION": "Lehrkraft",
+    "ZEITSTEMPEL": "26.09.06"
+  },
+  {
+    "DOZENTKUERZEL": "PB",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Uwe",
+    "NACHNAME": "Poborski",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "17.03.08"
+  },
+  {
+    "DOZENTKUERZEL": "NE",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Adrian",
+    "NACHNAME": "Neagu",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "SC",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Rainer",
+    "NACHNAME": "Scheuring",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "SR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Hermann",
+    "NACHNAME": "Siebdrat",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "WL",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Friedrich",
+    "NACHNAME": "Wilke",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "B\u00c4",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Hartmut",
+    "NACHNAME": "Baerwolff",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "G\u00dc",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Holger",
+    "NACHNAME": "G\u00fcnther",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "DT",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Kosta",
+    "NACHNAME": "Dimitriou",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "NA",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": null,
+    "NACHNAME": "Nachfolger",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "FG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Edwin",
+    "NACHNAME": "Ferger",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "HK",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Julia-Isabell",
+    "NACHNAME": "Henke",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "KS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Thomas",
+    "NACHNAME": "Kriener",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "SY",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Andreas",
+    "NACHNAME": "Schmengler",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "BA",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Mark",
+    "NACHNAME": "Bujack",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "BR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Beate",
+    "NACHNAME": "Breiderhoff",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "WY",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Mario",
+    "NACHNAME": "Winter",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "SZ",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Horst",
+    "NACHNAME": "Stenzel",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "GH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Gerhard",
+    "NACHNAME": "Hartmann",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "DR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof.",
+    "VORNAME": "Torsten C. E.",
+    "NACHNAME": "Drescher",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "NN",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "NN",
+    "NACHNAME": "NN",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "06.03.03"
+  },
+  {
+    "DOZENTKUERZEL": "BC",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Manfred",
+    "NACHNAME": "Bundschuh",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "WZ",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Steffen",
+    "NACHNAME": "Wilde",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "29.05.03"
+  },
+  {
+    "DOZENTKUERZEL": "SF",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Siegfried",
+    "NACHNAME": "Stumpf",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "09.06.03"
+  },
+  {
+    "DOZENTKUERZEL": "KL",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Heiner",
+    "NACHNAME": "Klocke",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "SH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Hans L.",
+    "NACHNAME": "Stahl",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "KR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Stefan",
+    "NACHNAME": "Karsch",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "SI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Juergen",
+    "NACHNAME": "Schmitz",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "JX",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Bruno",
+    "NACHNAME": "Jaax",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "EN",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Linda",
+    "NACHNAME": "Enders",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "16.03.05"
+  },
+  {
+    "DOZENTKUERZEL": "KG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Wolfgang",
+    "NACHNAME": "Konen",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "22.07.04"
+  },
+  {
+    "DOZENTKUERZEL": "BE",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Matina",
+    "NACHNAME": "Behr",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "22.07.04"
+  },
+  {
+    "DOZENTKUERZEL": "GY",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Torsten",
+    "NACHNAME": "Gesper",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "17.07.03"
+  },
+  {
+    "DOZENTKUERZEL": "KW",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Kerstin",
+    "NACHNAME": "Krey",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "17.07.03"
+  },
+  {
+    "DOZENTKUERZEL": "WF",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Peter",
+    "NACHNAME": "Wolff",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "AG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dipl.Ing.",
+    "VORNAME": "Aksel",
+    "NACHNAME": "Gross",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "01.10.10"
+  },
+  {
+    "DOZENTKUERZEL": "AM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Alex",
+    "NACHNAME": "Maier",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "15.02.11"
+  },
+  {
+    "DOZENTKUERZEL": "EM",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "DiplW.-Inf.",
+    "VORNAME": "Elizabeth Ango",
+    "NACHNAME": "Fomuso Ekellem",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "16.03.05"
+  },
+  {
+    "DOZENTKUERZEL": "PE",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Andreas",
+    "NACHNAME": "Peters",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.03.11"
+  },
+  {
+    "DOZENTKUERZEL": "BG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Marko",
+    "NACHNAME": "Boger",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.09.11"
+  },
+  {
+    "DOZENTKUERZEL": "HD",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "M.Sc.",
+    "VORNAME": "Albert",
+    "NACHNAME": "Hamidullin",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "RB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Roman",
+    "NACHNAME": "Bartnik",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "06.02.19"
+  },
+  {
+    "DOZENTKUERZEL": "BTH",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Bastian",
+    "NACHNAME": "Thelen",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "19.03.15"
+  },
+  {
+    "DOZENTKUERZEL": "DE",
+    "FACHBEREICH": "20",
+    "ANREDE": null,
+    "TITEL": null,
+    "VORNAME": null,
+    "NACHNAME": "Dekant",
+    "FUNKTION": null,
+    "ZEITSTEMPEL": "11.02.19"
+  },
+  {
+    "DOZENTKUERZEL": "WD",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Dennis Christian",
+    "NACHNAME": "Wilk",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "19.02.19"
+  },
+  {
+    "DOZENTKUERZEL": "MZ",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Martin",
+    "NACHNAME": "Zaefferer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "01.03.19"
+  },
+  {
+    "DOZENTKUERZEL": "EC",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Claudia",
+    "NACHNAME": "Einig",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "16.05.19"
+  },
+  {
+    "DOZENTKUERZEL": "JS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "M.SC.",
+    "VORNAME": "Jan",
+    "NACHNAME": "Strohschein",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "11.02.19"
+  },
+  {
+    "DOZENTKUERZEL": "TJ",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "J\u00fcrgen",
+    "NACHNAME": "Tennie",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "GK",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Klaus",
+    "NACHNAME": "Giebermann",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "GD",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Daniel",
+    "NACHNAME": "Gaida",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "GC",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Robert",
+    "NACHNAME": "Giacinto",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "05.07.07"
+  },
+  {
+    "DOZENTKUERZEL": "GS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": " ",
+    "VORNAME": "Stefanie",
+    "NACHNAME": "Gruttauer",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "28.02.13"
+  },
+  {
+    "DOZENTKUERZEL": "AS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Allan",
+    "NACHNAME": "Spence",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.02.13"
+  },
+  {
+    "DOZENTKUERZEL": "MU",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Udo",
+    "NACHNAME": "Maier",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "26.08.13"
+  },
+  {
+    "DOZENTKUERZEL": "MR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Guido",
+    "NACHNAME": "M\u00fcnster",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "26.08.13"
+  },
+  {
+    "DOZENTKUERZEL": "KM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Manuel",
+    "NACHNAME": "Krischer",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "26.08.13"
+  },
+  {
+    "DOZENTKUERZEL": "M\u00dc",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Thomas",
+    "NACHNAME": "M\u00fcnster",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "09.02.14"
+  },
+  {
+    "DOZENTKUERZEL": "BF",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Stefan",
+    "NACHNAME": "Bergfeld",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "21.02.14"
+  },
+  {
+    "DOZENTKUERZEL": "WI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Christian",
+    "NACHNAME": "Witte",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "30.05.15"
+  },
+  {
+    "DOZENTKUERZEL": "FB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Andreas",
+    "NACHNAME": "Fischbach",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "19.03.15"
+  },
+  {
+    "DOZENTKUERZEL": "BS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Dennis",
+    "NACHNAME": "Buderus",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.08.14"
+  },
+  {
+    "DOZENTKUERZEL": "BEN",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Stefan",
+    "NACHNAME": "Bente",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "17.03.15"
+  },
+  {
+    "DOZENTKUERZEL": "KU",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Jan",
+    "NACHNAME": "Kus",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "TI",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Patrick",
+    "NACHNAME": "Tichelmann",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "02.09.15"
+  },
+  {
+    "DOZENTKUERZEL": "BY",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Matthias",
+    "NACHNAME": "B\u00f6hmer",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": null
+  },
+  {
+    "DOZENTKUERZEL": "HO",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Dr.",
+    "VORNAME": "Konstantina",
+    "NACHNAME": "Harra\u00df",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "12.10.15"
+  },
+  {
+    "DOZENTKUERZEL": "TB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Diplom-Kultu",
+    "VORNAME": "Tuula",
+    "NACHNAME": "Bockem\u00fchl-Simon",
+    "FUNKTION": "Lehrkraft",
+    "ZEITSTEMPEL": "08.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "EO",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Youssef",
+    "NACHNAME": "El Ouadoudi",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "06.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "PS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Pauline",
+    "NACHNAME": "Stenschke",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "08.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "DO",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": " ",
+    "VORNAME": "Daniela",
+    "NACHNAME": "Otto",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "09.11.16"
+  },
+  {
+    "DOZENTKUERZEL": "RH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Jackson",
+    "NACHNAME": "Roehrig",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "NB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Boris",
+    "NACHNAME": "Naujoks",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "16.03.05"
+  },
+  {
+    "DOZENTKUERZEL": "FM",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Martina",
+    "NACHNAME": "Friese",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "16.03.05"
+  },
+  {
+    "DOZENTKUERZEL": "GW",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Damian",
+    "NACHNAME": "Gawenda",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "23.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "AK",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "M.Sc.",
+    "VORNAME": "Andre",
+    "NACHNAME": "Kasper",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "23.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "TE",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Dr.",
+    "VORNAME": "Carola",
+    "NACHNAME": "de Teff\u00e8",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "16.03.05"
+  },
+  {
+    "DOZENTKUERZEL": "LK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Simone",
+    "NACHNAME": "Lake",
+    "FUNKTION": "Professorin",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "PM",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Michael",
+    "NACHNAME": "Pongs",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "FR",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Holger",
+    "NACHNAME": "Fischer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "02.03.12"
+  },
+  {
+    "DOZENTKUERZEL": "SL",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Uwe",
+    "NACHNAME": "Stoklossa",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "30.05.15"
+  },
+  {
+    "DOZENTKUERZEL": "ZA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Juri",
+    "NACHNAME": "Zakrevski",
+    "FUNKTION": "Lehrkraft",
+    "ZEITSTEMPEL": "28.02.13"
+  },
+  {
+    "DOZENTKUERZEL": "BN",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Hans-J\u00fcrgen",
+    "NACHNAME": "Bender",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.02.13"
+  },
+  {
+    "DOZENTKUERZEL": "ML",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Lutz",
+    "NACHNAME": "M\u00fcller",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "09.02.14"
+  },
+  {
+    "DOZENTKUERZEL": "SW",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Sascha",
+    "NACHNAME": "Schewe",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "10.03.14"
+  },
+  {
+    "DOZENTKUERZEL": "EG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Monika",
+    "NACHNAME": "Engelen",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "22.05.14"
+  },
+  {
+    "DOZENTKUERZEL": "EA",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Martin",
+    "NACHNAME": "Eisemann",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "18.03.15"
+  },
+  {
+    "DOZENTKUERZEL": "KO",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof.",
+    "VORNAME": "Christian",
+    "NACHNAME": "Kohls",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "10.09.14"
+  },
+  {
+    "DOZENTKUERZEL": "SG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "J\u00fcrgen",
+    "NACHNAME": "Sleegers",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "01.10.15"
+  },
+  {
+    "DOZENTKUERZEL": "WE",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christina",
+    "NACHNAME": "Werner",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "17.05.16"
+  },
+  {
+    "DOZENTKUERZEL": "DA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Denis",
+    "NACHNAME": "Anders",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "02.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "AR",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.-Ing.",
+    "VORNAME": "Amr",
+    "NACHNAME": "Kandil",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "02.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "WA",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Peter",
+    "NACHNAME": "Wagner",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "23.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "SJ",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr. ",
+    "VORNAME": "Jo",
+    "NACHNAME": "Spaubeck",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.11.16"
+  },
+  {
+    "DOZENTKUERZEL": "PA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": " ",
+    "VORNAME": "Paul",
+    "NACHNAME": "Bagiu",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "09.11.16"
+  },
+  {
+    "DOZENTKUERZEL": "JT",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": " ",
+    "VORNAME": "Jana",
+    "NACHNAME": "Tessmer",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "09.11.16"
+  },
+  {
+    "DOZENTKUERZEL": "MS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Mei-Hsiang",
+    "NACHNAME": "Siebenhaar",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "15.03.11"
+  },
+  {
+    "DOZENTKUERZEL": "ZW",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Florian",
+    "NACHNAME": "Zwanzig",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "21.08.14"
+  },
+  {
+    "DOZENTKUERZEL": "GI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Fotios",
+    "NACHNAME": "Giannakopoulos",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "05.07.07"
+  },
+  {
+    "DOZENTKUERZEL": "SE",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dipl.-Ing.",
+    "VORNAME": "Frank",
+    "NACHNAME": "Sch\u00e4fer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "BU",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Ludger",
+    "NACHNAME": "Buchmann",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "06.05.12"
+  },
+  {
+    "DOZENTKUERZEL": "SB",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Stefan",
+    "NACHNAME": "Breuer",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "TR",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Volker",
+    "NACHNAME": "Trauzettel",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "03.12.13"
+  },
+  {
+    "DOZENTKUERZEL": "TH",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Dr.",
+    "VORNAME": "Tanja",
+    "NACHNAME": "Haag",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "22.08.14"
+  },
+  {
+    "DOZENTKUERZEL": "AL",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Elena",
+    "NACHNAME": "Algorri",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "22.08.14"
+  },
+  {
+    "DOZENTKUERZEL": "LN",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Alexander",
+    "NACHNAME": "Lang",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "10.09.14"
+  },
+  {
+    "DOZENTKUERZEL": "WO",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christian",
+    "NACHNAME": "Wolf",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "FI",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Andreas",
+    "NACHNAME": "Fischbach",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "19.03.15"
+  },
+  {
+    "DOZENTKUERZEL": "ZS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Svetlana",
+    "NACHNAME": "Zakrevski",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "19.03.15"
+  },
+  {
+    "DOZENTKUERZEL": "HS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.-Ing.",
+    "VORNAME": "Michael",
+    "NACHNAME": "Harra\u00df",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "BX",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Dirk",
+    "NACHNAME": "Breuer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "10.03.16"
+  },
+  {
+    "DOZENTKUERZEL": "SK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Sebastian",
+    "NACHNAME": "Kraft",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "02.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "HI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Dipl.Inf.",
+    "VORNAME": "Irina",
+    "NACHNAME": "Hein",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "22.09.16"
+  },
+  {
+    "DOZENTKUERZEL": "BAG",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Samineh",
+    "NACHNAME": "Bagheri",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "23.02.10"
+  },
+  {
+    "DOZENTKUERZEL": "RI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Petra",
+    "NACHNAME": "Riemer",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "06.03.17"
+  },
+  {
+    "DOZENTKUERZEL": "NP",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Nicolas",
+    "NACHNAME": "Pyschny",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "09.03.17"
+  },
+  {
+    "DOZENTKUERZEL": "AW",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Axel",
+    "NACHNAME": "Wellendorf",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "09.03.17"
+  },
+  {
+    "DOZENTKUERZEL": "LH",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. \n",
+    "VORNAME": "Wolfgang",
+    "NACHNAME": "Laubersheimer",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "11.08.17"
+  },
+  {
+    "DOZENTKUERZEL": "MJ",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Roman",
+    "NACHNAME": "Majewski",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "07.09.17"
+  },
+  {
+    "DOZENTKUERZEL": "IS",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Igor",
+    "NACHNAME": "Shevchuk",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "25.08.17"
+  },
+  {
+    "DOZENTKUERZEL": "DB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Alexander",
+    "NACHNAME": "Dobrynin",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.08.17"
+  },
+  {
+    "DOZENTKUERZEL": "CM",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christian",
+    "NACHNAME": "Malek",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "04.09.17"
+  },
+  {
+    "DOZENTKUERZEL": "CH",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christoph",
+    "NACHNAME": "Haag",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "06.09.17"
+  },
+  {
+    "DOZENTKUERZEL": "WH",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Heinz-Reiner",
+    "NACHNAME": "Wollersheim",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "23.11.17"
+  },
+  {
+    "DOZENTKUERZEL": "HB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Rolf-Hubert",
+    "NACHNAME": "Bruns",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "24.11.17"
+  },
+  {
+    "DOZENTKUERZEL": "FZ",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Andreas",
+    "NACHNAME": "Frantz",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "24.11.17"
+  },
+  {
+    "DOZENTKUERZEL": "PZ",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Regine",
+    "NACHNAME": "Pelger-Arz",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": null
+  },
+  {
+    "DOZENTKUERZEL": "SU",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Ines",
+    "NACHNAME": "Schulz",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "24.11.17"
+  },
+  {
+    "DOZENTKUERZEL": "MT",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Dr. ",
+    "VORNAME": "Michael",
+    "NACHNAME": "Stricker",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "24.11.17"
+  },
+  {
+    "DOZENTKUERZEL": "ME",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Dr.",
+    "VORNAME": "Benjamin",
+    "NACHNAME": "Meyer",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "23.02.18"
+  },
+  {
+    "DOZENTKUERZEL": "DG",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Dimitri",
+    "NACHNAME": "Gusew",
+    "FUNKTION": null,
+    "ZEITSTEMPEL": "19.03.18"
+  },
+  {
+    "DOZENTKUERZEL": "SEI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Jan",
+    "NACHNAME": "Seidler",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "03.05.18"
+  },
+  {
+    "DOZENTKUERZEL": "MW",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Marcel",
+    "NACHNAME": "Walkowiak",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "30.08.18"
+  },
+  {
+    "DOZENTKUERZEL": "PY",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Thomas",
+    "NACHNAME": "Pytiak",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "06.03.17"
+  },
+  {
+    "DOZENTKUERZEL": "WS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Ernestine",
+    "NACHNAME": "Wassermann",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "26.02.18"
+  },
+  {
+    "DOZENTKUERZEL": "MB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": " ",
+    "VORNAME": "Markus",
+    "NACHNAME": "Baum",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "19.03.18"
+  },
+  {
+    "DOZENTKUERZEL": "TK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Torsten",
+    "NACHNAME": "Klein",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "02.08.18"
+  },
+  {
+    "DOZENTKUERZEL": "RA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Astrid",
+    "NACHNAME": "Rehorek",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "21.08.18"
+  },
+  {
+    "DOZENTKUERZEL": "DK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Danka",
+    "NACHNAME": "Katrakova-Kr\u00fcger",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "21.08.18"
+  },
+  {
+    "DOZENTKUERZEL": "PK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Peter",
+    "NACHNAME": "Kern",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "30.08.18"
+  },
+  {
+    "DOZENTKUERZEL": "HF",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Marion",
+    "NACHNAME": "Halfmann",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.03.04"
+  },
+  {
+    "DOZENTKUERZEL": "GE",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Norbert",
+    "NACHNAME": "Gesper",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "17.07.03"
+  },
+  {
+    "DOZENTKUERZEL": "AV",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christian",
+    "NACHNAME": "Averkamp",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "BH",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": null,
+    "VORNAME": "Anne",
+    "NACHNAME": "Breidenbach",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "BL",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christian",
+    "NACHNAME": "Blume",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "BO",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Michael",
+    "NACHNAME": "Bongards",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "B\u00d6",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "J\u00fcrgen",
+    "NACHNAME": "B\u00f6hm-Rietig",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "BT",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Arno",
+    "NACHNAME": "Bitzer",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "FA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Christoph",
+    "NACHNAME": "Franke",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "FK",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Bernd",
+    "NACHNAME": "Franzkoch",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "FY",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "OStR\u2019in",
+    "VORNAME": "Monika",
+    "NACHNAME": "Fey-McClean",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "G\u00d6",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Ulrich",
+    "NACHNAME": "Goette",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "HE",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Klaus",
+    "NACHNAME": "Heift",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "H\u00dc",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Bruno",
+    "NACHNAME": "H\u00fcnermund",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "KF",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Frithjof",
+    "NACHNAME": "Klasen",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "KN",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Andreas",
+    "NACHNAME": "Kampmann",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "KP",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Gabriele",
+    "NACHNAME": "Koeppe",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "KT",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Alfred",
+    "NACHNAME": "Kurtz",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "LB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Karin",
+    "NACHNAME": "Lutterbeck",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "LE",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Edda",
+    "NACHNAME": "Leopold",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "03.03.09"
+  },
+  {
+    "DOZENTKUERZEL": "OT",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Walter",
+    "NACHNAME": "Ott",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "WRB",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Wolfgang",
+    "NACHNAME": "Roebig",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "R\u00dc",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Hans R.",
+    "NACHNAME": "Ruehmann",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "SD",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Wolfgang",
+    "NACHNAME": "Scheidt, von",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "S\u00d6",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Torsten",
+    "NACHNAME": "Strombach",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "SP",
+    "FACHBEREICH": "19",
+    "ANREDE": "Frau",
+    "TITEL": "Studienr\u00e4tin",
+    "VORNAME": "Ricarda",
+    "NACHNAME": "Spence",
+    "FUNKTION": "Lehrkraft",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "BD",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Frederik",
+    "NACHNAME": "Brand",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.01.05"
+  },
+  {
+    "DOZENTKUERZEL": "WJ",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "J\u00fcrgen",
+    "NACHNAME": "Weber",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "WN",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Helmut",
+    "NACHNAME": "Winkel",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "08.06.04"
+  },
+  {
+    "DOZENTKUERZEL": "DS",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Holger",
+    "NACHNAME": "Duschneit",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "07.07.04"
+  },
+  {
+    "DOZENTKUERZEL": "KA",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Eric",
+    "NACHNAME": "Karstens",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "28.08.03"
+  },
+  {
+    "DOZENTKUERZEL": "KE",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof.",
+    "VORNAME": "Christoph",
+    "NACHNAME": "Klein",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "HA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Dietmar",
+    "NACHNAME": "Hardt",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "BB",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Birgit",
+    "NACHNAME": "Bertelsmeier",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "EH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Erich",
+    "NACHNAME": "Ehses",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "FW",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Heide",
+    "NACHNAME": "Faeskorn-Woyke",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "FH",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Kristian",
+    "NACHNAME": "Fischer",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "GT",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Peter",
+    "NACHNAME": "Goettel",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "HM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Erwin",
+    "NACHNAME": "Holland-Moritz",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  },
+  {
+    "DOZENTKUERZEL": "JO",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Friedbert",
+    "NACHNAME": "Jochum",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "27.01.03"
+  }
+]
