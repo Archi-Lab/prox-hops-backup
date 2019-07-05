@@ -136,7 +136,7 @@
     "EMPFOHLENEVORAUSSETZUNG": null,
     "MODULBEZEICHNUNG": "Unternehmensplanspiel",
     "KUERZEL": "16-H-06-IUPL",
-    "LEHRVERANSTALTUNGEN": "<p>a) Planspiel<br />b) Kolloquium</p>",
+    "LEHRVERANSTALTUNGEN": null,
     "SPRACHE": null,
     "SWS_GESAMT": "4",
     "SWS_VORLESUNG": "2",
@@ -144,7 +144,7 @@
     "SWS_UEBUNG": "2",
     "SWS_SEMINAR": "0",
     "GRUPPENGROESSE_PRAKTIKUM": "a) max. 50<br />b) max. 5",
-    "LEHRFORM": "<ol type=\"a\">\r\n<li>Computergest&uuml;tzte Simulation</li>\r\n<li>Teamarbeit</li>\r\n</ol>",
+    "LEHRFORM": null,
     "AUFWAND_STD_GESAMT": "150",
     "AUFWAND_STD_VORLESUNG": "30",
     "AUFWAND_STD_PRAKTIKUM": "0",
@@ -155,7 +155,7 @@
     "VORAUSSETZUNGEN": "<p>abgeschlossenes Grundstudium</p>",
     "LERNZIELE_KOMPETENZEN": "<p>Die Studierenden erkennen die Abh&auml;ngigkeit der verschiedenen betriebswirtschaftlichen Inhalte aus dem Studium in der konkreten Entscheidungssituation. Sie erproben das Treffen von unternehmerischen Entscheidungen unter Unsicherheit und Zeitdruck und erkennen die Bedeutung von vorhergehenden und systematischen Analysen.</p>\r\n<p>Anwendungsbezug:<br /> Die Studierenden erleben sich in realit&auml;tsnahen Entscheidungssituationen im Wettbewerb zu anderen Planspielgruppen. Dabei wird deutlich, dass die Beherrschung der betriebswirtschaftlichen Methoden und zugleich die F&auml;higkeit, im Team zu kooperieren gleicherma&szlig;en von Bedeutung f&uuml;r den Erfolg ist.</p>",
     "INHALT": "<ol>\r\n<li>Erarbeitung einer strategischen Option f&uuml;r das eigene Unternehmen unter anzunehmenden volkswirtschatlichen und wettbewerblichen Randbedingungen</li>\r\n<li>Aufbereiten von betriebswirtschaftlichen Daten im Hinblick auf das Treffen operativer unternehmerischer Entscheidungen</li>\r\n<li>Entscheidungen des Marketingmixes auf der Basis von selbst erstellten Konkurrenzanalysen</li>\r\n<li>Ausarbeiten von weiteren betriebswirtschaftlichen Analysen wie\r\n<ul>\r\n<li>Investitionsrechnungen</li>\r\n<li>Entscheidungen des Make-or-Buy</li>\r\n<li>Finanzierungsentscheidungen</li>\r\n<li>Budgetierung</li>\r\n<li>Finanzplanung</li>\r\n<li>Optimales Einkaufsvolumen</li>\r\n<li>Kapazit&auml;tsplanung</li>\r\n<li>Personalplanung</li>\r\n</ul>\r\n</li>\r\n<li>Das Treffen von betriebswirtschaftlichen Entscheidungen unter Unsicherheit</li>\r\n<li>Entscheidungsfindung im Team</li>\r\n</ol>",
-    "LEISTUNGEN": "<ol type=\"a\">\r\n<li>Benotete Klausur</li>\r\n<li>Gruppenarbeit (Bericht)</li>\r\n</ol>",
+    "LEISTUNGEN": "<ol type=\"a\">\r\n<li>Benotete Klausur</li>\r\n<li>Benotete Pr&auml;sentation/Bericht</li>\r\n</ol>",
     "MEDIENFORMEN": null,
     "LITERATUR": "<ul>\r\n<li>TOPSIM: Handbuch zum Planspiel General Management</li>\r\n</ul>\r\n<p>Die Auswahl weiterer ben&ouml;tigter Literatur zur Bew&auml;ltigung der anstehenden Arbeiten und dem Treffen von Entscheidungen ist den TeilnehmerInnen bewusst freigestellt.</p>",
     "SCHWERPUNKTE": null,
@@ -169,11 +169,11 @@
     "SONSTIGEINFO": null,
     "MODULKUERZEL": "1006",
     "CREDITS_ZUSATZ": null,
-    "AUFWAND_GESAMT_ZUSATZ": "<p>a) 30h<br />b) 10h</p>",
+    "AUFWAND_GESAMT_ZUSATZ": null,
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "09.04.19"
+    "ZEITSTEMPEL": "25.06.19"
   },
   {
     "UNTERTITEL": null,
@@ -2660,12 +2660,12 @@
     "AUFWAND_STD_SEMINAR": "60",
     "AUFWAND_STD_SELBSTSTUDIUM": "90",
     "CREDITS": "5",
-    "VORAUSSETZUNGEN": "<p>Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften, alle Klausuren aus dem Grundstudium bestanden.</p>",
-    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Wirtschaftsenglisch auf einem Niveau vergleichbar mit CEFR B2.1 verstehen, sprechen und schreiben, indem sie wirtschaftliche Fachbegriffe verwenden und geeignete Strukturen f&uuml;r den Aufbau von Pr&auml;sentationen, Bewerbungen oder Kurzstatements nutzen, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: aktiv an Meetings teilnehmen, Verkaufs- und Einkaufsgespr&auml;che sowie Verhandlungen f&uuml;hren, Stellungnahmen formulieren, eine Pr&auml;sentation halten, sowie sich schriftlich und m&uuml;ndlich bewerben.</p>",
+    "VORAUSSETZUNGEN": "<p>Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften, alle Klausuren aus dem Grundstudium bestanden.</p>\r\n<p>- Weiteres entnehmen Sie bitte Ihrer Pr&uuml;fungsordnung</p>",
+    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Wirtschaftsenglisch verstehen, sprechen und schreiben, indem sie wirtschaftliche Fachbegriffe verwenden und geeignete Strukturen f&uuml;r den Aufbau von Pr&auml;sentationen, Bewerbungen oder Kurzstatements nutzen, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: aktiv an Meetings teilnehmen, Verkaufs- und Einkaufsgespr&auml;che sowie Verhandlungen f&uuml;hren, Stellungnahmen formulieren, eine Pr&auml;sentation halten, sowie sich schriftlich und m&uuml;ndlich bewerben.</p>",
     "INHALT": null,
     "LEISTUNGEN": "<p>Zulassung zur Klausur setzt eine 80% Anwesenheit im Seminar voraus. <br />50 % benotete Mitarbeit im Seminar<br />50 % schriftliche Klausur</p>\r\n<p>Jeder Teil - Seminarvorleistung sowie Klausur - muss bestanden sein.</p>",
     "MEDIENFORMEN": null,
-    "LITERATUR": "<p>Literatur und Lernsoftware</p>\r\n<ul>\r\n<li>\"TechnoPlus English\", Eurokey Software GmbH</li>\r\n<li>\"The Multimedia Business English Course&rdquo;, Hueber Software</li>\r\n<li>Baddock, Barry / Vrobel, Susie: \"Down To Business&rdquo;, Selbstlernkurs, Hueber</li>\r\n<li>B&ouml;hler, Wilfried / Hinck, Michael: \"Wirtschaftsenglisch&rdquo;, Business Cases, Know-How, Soft Skills, Merkur Verlag Rinteln</li>\r\n<li>Bowen, Tim: \"Build Your Business Grammar\", Thomson-Heinle</li>\r\n<li>Geisen, Herbert: \"Englisch in Wirtschaft und Handel\", Cornelsen Verlag</li>\r\n<li>Hamblock, Dieter / Wessels, Dieter: \"Gro&szlig;w&ouml;rterbuch Wirtschaftsenglisch&rdquo; Cornelsen</li>\r\n<li>Hollett, Vicki: \"Business Opportunities\", Oxford University Press</li>\r\n<li>Klarer, Mario: Pr&auml;sentieren auf Englisch, Redline Wirtschaft</li>\r\n<li>Powell, Mark: \"Presenting in English&rdquo;, Thomson</li>\r\n<li>Raymond Murphy: \"English Grammar in Use&rdquo;, Cambridge University Press</li>\r\n<li>Swan, Michael / Walter, Catherine: \"how English works&rdquo;, Oxford University Press</li>\r\n</ul>",
+    "LITERATUR": "<p>Literatur und Lernsoftware</p>\r\n<ul>\r\n<li>\"The Multimedia Business English Course&rdquo;, Hueber Software</li>\r\n<li>Baddock, Barry / Vrobel, Susie: \"Down To Business&rdquo;, Selbstlernkurs, Hueber</li>\r\n<li>B&ouml;hler, Wilfried / Hinck, Michael: \"Wirtschaftsenglisch&rdquo;, Business Cases, Know-How, Soft Skills, Merkur Verlag Rinteln</li>\r\n<li>Bowen, Tim: \"Build Your Business Grammar\", Thomson-Heinle</li>\r\n<li>Geisen, Herbert: \"Englisch in Wirtschaft und Handel\", Cornelsen Verlag</li>\r\n<li>Hamblock, Dieter / Wessels, Dieter: \"Gro&szlig;w&ouml;rterbuch Wirtschaftsenglisch&rdquo; Cornelsen</li>\r\n<li>Hollett, Vicki: \"Business Opportunities\", Oxford University Press</li>\r\n<li>Klarer, Mario: Pr&auml;sentieren auf Englisch, Redline Wirtschaft</li>\r\n<li>Raymond Murphy: \"English Grammar in Use&rdquo;, Cambridge University Press</li>\r\n</ul>",
     "SCHWERPUNKTE": null,
     "AKKREDITIERUNG": "AQUAS",
     "DATEVERSION": "01.03.09",
@@ -2681,7 +2681,7 @@
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "04.09.18"
+    "ZEITSTEMPEL": "03.07.19"
   },
   {
     "UNTERTITEL": null,
@@ -3544,7 +3544,7 @@
     "LERNZIELE_KOMPETENZEN": "<p>Die Studierenden sollen bef&auml;higt werden,</p>\r\n<ul>\r\n<li>Management- und F&uuml;hrungskonzepte beschreiben, diskutieren, bewerten und beispielhaft anwenden k&ouml;nnen</li>\r\n<li>den Zusammenhang von Organisation, F&uuml;hrung, Steuerung und Management analysieren k&ouml;nnen,</li>\r\n<li>Systeme der Leistungsmessung von Unternehmen darstellen, bewerten, abw&auml;gen und beurteilen k&ouml;nnen</li>\r\n</ul>",
     "INHALT": "<p>Das Modul beschreibt Ziele, Prinzipien, Methoden, Ma&szlig;nahmen sowie Techniken und Werkzeuge zum operativen, taktischen und strategischen Management von wirtschaftlich handelnden Unternehmen. Schwerpunkte liegen auf der Steuerung und leistungsbezogenen Lenkung von Unternehmen, wobei auf die IT Unterst&uuml;tzung besonderer Wert gelegt wird.<br /> Inhalte im Einzelnen:</p>\r\n<ul>\r\n<li>Grundlagen\r\n<ul>\r\n<li>Organisation</li>\r\n<li>Entscheidung</li>\r\n<li>Koordination</li>\r\n</ul>\r\n</li>\r\n<li>Operatives Management\r\n<ul>\r\n<li>F&uuml;hrungsprinzipien</li>\r\n<li>Prozessmanagement</li>\r\n<li>Operative Aspekte des Performance Managements</li>\r\n</ul>\r\n</li>\r\n<li>Taktisches Management\r\n<ul>\r\n<li>Personalmanagement</li>\r\n<li>Change Management</li>\r\n</ul>\r\n</li>\r\n<li>Strategisches Management\r\n<ul>\r\n<li>Strategische Steuerung</li>\r\n<li>Strategische Analyse und Diagnose</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<p>Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer im Seminar-Teil eine Ausarbeitung und eine Pr&auml;sentation zu einem ausgew&auml;hlten aktuellen Forschungsgebiet (operatives Management, taktisches Management bzw. strategisches Management).</p>",
     "LEISTUNGEN": "<p>Klausurarbeit (50%) und Hausarbeit (50%)</p>",
-    "MEDIENFORMEN": "<p>siehe Modulbeschreibung auf www.prof-eckstein.de/lehre</p>",
+    "MEDIENFORMEN": null,
     "LITERATUR": "<p>Basisliteratur:</p>\r\n<ul>\r\n<li>Staehle, W.H.: Management, 7. Aufl., Verlag Vahlen, 1994</li>\r\n<li>Rahn, H.-J.: Unternehmensf&uuml;hrung, 5. Aufl. Friedrich Kiehl Verlag, 2002</li>\r\n<li>Steinmann, H. / Schrey&ouml;gg, G.: Management, 5. Aufl., Gabler Verlag, 2002</li>\r\n</ul>\r\n<p>Weiterf&uuml;hrende Literatur:</p>\r\n<ul>\r\n<li>Hungenberg, H.: Strategisches Management in Unternehmen, 5. Aufl., Gabler Verlag, 2008.</li>\r\n<li>Kaplan, R.S. / Norton, D.P.: Balanced Scorecard: Strategien erfolgreich umsetzen, Sch&auml;ffer-Poeschel Verlag, 1997</li>\r\n<li>Weitere themenbezogene Einzelverweise in der Vorlesung und im Seminar</li>\r\n</ul>",
     "SCHWERPUNKTE": null,
     "AKKREDITIERUNG": "ASIN",
@@ -3561,7 +3561,7 @@
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "27.02.19"
+    "ZEITSTEMPEL": "25.06.19"
   },
   {
     "UNTERTITEL": null,
@@ -10624,8 +10624,8 @@
     "AUFWAND_STD_SEMINAR": "60",
     "AUFWAND_STD_SELBSTSTUDIUM": "90",
     "CREDITS": "5",
-    "VORAUSSETZUNGEN": "<p>- Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften</p>\r\n<p>- h&ouml;chstens 2 offene Klausuren aus dem Grundstudium</p>",
-    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Technisches Englisch auf einem Niveau vergleichbar mit CEFR B2.1 verstehen, sprechen und schreiben, indem sie technische Fachbegriffe verwenden und die notwendigen grammatischen Formen (Passiv, Imperativ, Konditionals&auml;tze) f&uuml;r Instruktionen oder Notfallplanungen anwenden, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: Kommunikation mit Projektpartnern, Bedienungsanleitungen schreiben, technische Ger&auml;te beschreiben, Prozesse beschreiben, Instruktionen m&uuml;ndlich erteilen, sowie sich schriftlich und m&uuml;ndlich bewerben. Zusammenfassend geht es darum, technische Problemstellungen ad&auml;quat sprachlich bearbeiten und l&ouml;sen zu k&ouml;nnen.</p>",
+    "VORAUSSETZUNGEN": "<p>Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften</p>\r\n<p>- Weiteres entnehmen Sie bitte Ihrer Pr&uuml;fungsordnung</p>",
+    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Technisches Englisch verstehen, sprechen und schreiben, indem sie technische Fachbegriffe verwenden und die notwendigen grammatischen Formen (Passiv, Imperativ, Konditionals&auml;tze) f&uuml;r Instruktionen oder Notfallplanungen anwenden, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: Kommunikation mit Projektpartnern, Bedienungsanleitungen schreiben, technische Ger&auml;te beschreiben, Prozesse beschreiben, Instruktionen m&uuml;ndlich erteilen, sowie sich schriftlich und m&uuml;ndlich bewerben. Zusammenfassend geht es darum, technische Problemstellungen ad&auml;quat sprachlich bearbeiten und l&ouml;sen zu k&ouml;nnen.</p>",
     "INHALT": null,
     "LEISTUNGEN": "<p>Zulassung zur Klausur setzt eine 80% Anwesenheit im Seminar voraus. <br />50 % benotete Mitarbeit im Seminar<br />50 % schriftliche Klausur</p>\r\n<p>Jeder Teil - Seminarvorleistung sowie Klausur - muss bestanden sein.</p>",
     "MEDIENFORMEN": null,
@@ -10645,7 +10645,7 @@
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "04.09.18"
+    "ZEITSTEMPEL": "03.07.19"
   },
   {
     "UNTERTITEL": null,
@@ -18460,7 +18460,7 @@
     "LERNZIELE_KOMPETENZEN": "<p>Die Studierenden sollen bef&auml;higt werden,</p>\r\n<ul>\r\n<li>Management- und F&uuml;hrungskonzepte beschreiben, diskutieren, bewerten und beispielhaft anwenden k&ouml;nnen</li>\r\n<li>den Zusammenhang von Organisation, F&uuml;hrung, Steuerung und Management analysieren k&ouml;nnen,</li>\r\n<li>Systeme der Leistungsmessung von Unternehmen darstellen, bewerten, abw&auml;gen und beurteilen k&ouml;nnen</li>\r\n</ul>",
     "INHALT": "<p>Das Modul beschreibt Ziele, Prinzipien, Methoden, Ma&szlig;nahmen sowie Techniken und Werkzeuge zum operativen, taktischen und strategischen Management von wirtschaftlich handelnden Unternehmen. Schwerpunkte liegen auf der Steuerung und leistungsbezogenen Lenkung von Unternehmen, wobei auf die IT Unterst&uuml;tzung besonderer Wert gelegt wird.<br /> Inhalte im Einzelnen:</p>\r\n<ul>\r\n<li>Grundlagen\r\n<ul>\r\n<li>Organisation</li>\r\n<li>Entscheidung</li>\r\n<li>Koordination</li>\r\n</ul>\r\n</li>\r\n<li>Operatives Management\r\n<ul>\r\n<li>F&uuml;hrungsprinzipien</li>\r\n<li>Prozessmanagement</li>\r\n<li>Operative Aspekte des Performance Managements</li>\r\n</ul>\r\n</li>\r\n<li>Taktisches Management\r\n<ul>\r\n<li>Personalmanagement</li>\r\n<li>Change Management</li>\r\n</ul>\r\n</li>\r\n<li>Strategisches Management\r\n<ul>\r\n<li>Strategische Steuerung</li>\r\n<li>Strategische Analyse und Diagnose</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<p>Aufbauend auf dem in der Vorlesung vermittelten Stoff erstellt jeder Teilnehmer im Seminar-Teil eine Ausarbeitung und eine Pr&auml;sentation zu einem ausgew&auml;hlten aktuellen Forschungsgebiet (operatives Management, taktisches Management bzw. strategisches Management).</p>",
     "LEISTUNGEN": "<p>Klausurarbeit (50%) und Hausarbeit (50%)</p>",
-    "MEDIENFORMEN": "<p><strong>siehe Modulbeschreibung auf www.prof-eckstein.de/lehre</strong></p>",
+    "MEDIENFORMEN": null,
     "LITERATUR": "<p>Basisliteratur:</p>\r\n<ul>\r\n<li>Staehle, W.H.: Management, 7. Aufl., Verlag Vahlen, 1994</li>\r\n<li>Rahn, H.-J.: Unternehmensf&uuml;hrung, 5. Aufl. Friedrich Kiehl Verlag, 2002</li>\r\n<li>Steinmann, H. / Schrey&ouml;gg, G.: Management, 5. Aufl., Gabler Verlag, 2002</li>\r\n</ul>\r\n<p>Weiterf&uuml;hrende Literatur:</p>\r\n<ul>\r\n<li>Hungenberg, H.: Strategisches Management in Unternehmen, 5. Aufl., Gabler Verlag, 2008.</li>\r\n<li>Kaplan, R.S. / Norton, D.P.: Balanced Scorecard: Strategien erfolgreich umsetzen, Sch&auml;ffer-Poeschel Verlag, 1997</li>\r\n<li>Weitere themenbezogene Einzelverweise in der Vorlesung und im Seminar</li>\r\n</ul>",
     "SCHWERPUNKTE": null,
     "AKKREDITIERUNG": "AQAS",
@@ -18477,14 +18477,14 @@
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "25.02.19"
+    "ZEITSTEMPEL": "25.06.19"
   },
   {
     "UNTERTITEL": null,
     "EMPFOHLENEVORAUSSETZUNG": null,
     "MODULBEZEICHNUNG": "Unternehmensplanspiel",
     "KUERZEL": "16-H-06-IUPL",
-    "LEHRVERANSTALTUNGEN": "<p>a) Planspiel<br />b) Kolloquium</p>",
+    "LEHRVERANSTALTUNGEN": null,
     "SPRACHE": null,
     "SWS_GESAMT": "4",
     "SWS_VORLESUNG": "2",
@@ -18492,7 +18492,7 @@
     "SWS_UEBUNG": "2",
     "SWS_SEMINAR": "0",
     "GRUPPENGROESSE_PRAKTIKUM": "a) max. 50<br />b) max. 5",
-    "LEHRFORM": "<ol type=\"a\">\r\n<li>Computergest&uuml;tzte Simulation</li>\r\n<li>Teamarbeit</li>\r\n</ol>",
+    "LEHRFORM": null,
     "AUFWAND_STD_GESAMT": "150",
     "AUFWAND_STD_VORLESUNG": "30",
     "AUFWAND_STD_PRAKTIKUM": "0",
@@ -18503,7 +18503,7 @@
     "VORAUSSETZUNGEN": "<p>abgeschlossenes Grundstudium</p>",
     "LERNZIELE_KOMPETENZEN": "<p>Die Studierenden erkennen die Abh&auml;ngigkeit der verschiedenen betriebswirtschaftlichen Inhalte aus dem Studium in der konkreten Entscheidungssituation. Sie erproben das Treffen von unternehmerischen Entscheidungen unter Unsicherheit und Zeitdruck und erkennen die Bedeutung von vorhergehenden und systematischen Analysen.</p>\r\n<p>Anwendungsbezug:<br /> Die Studierenden erleben sich in realit&auml;tsnahen Entscheidungssituationen im Wettbewerb zu anderen Planspielgruppen. Dabei wird deutlich, dass die Beherrschung der betriebswirtschaftlichen Methoden und zugleich die F&auml;higkeit, im Team zu kooperieren gleicherma&szlig;en von Bedeutung f&uuml;r den Erfolg ist.</p>",
     "INHALT": "<ol>\r\n<li>Erarbeitung einer strategischen Option f&uuml;r das eigene Unternehmen unter anzunehmenden volkswirtschatlichen und wettbewerblichen Randbedingungen</li>\r\n<li>Aufbereiten von betriebswirtschaftlichen Daten im Hinblick auf das Treffen operativer unternehmerischer Entscheidungen</li>\r\n<li>Entscheidungen des Marketingmixes auf der Basis von selbst erstellten Konkurrenzanalysen</li>\r\n<li>Ausarbeiten von weiteren betriebswirtschaftlichen Analysen wie\r\n<ul>\r\n<li>Investitionsrechnungen</li>\r\n<li>Entscheidungen des Make-or-Buy</li>\r\n<li>Finanzierungsentscheidungen</li>\r\n<li>Budgetierung</li>\r\n<li>Finanzplanung</li>\r\n<li>Optimales Einkaufsvolumen</li>\r\n<li>Kapazit&auml;tsplanung</li>\r\n<li>Personalplanung</li>\r\n</ul>\r\n</li>\r\n<li>Das Treffen von betriebswirtschaftlichen Entscheidungen unter Unsicherheit</li>\r\n<li>Entscheidungsfindung im Team</li>\r\n</ol>",
-    "LEISTUNGEN": "<ol type=\"a\">\r\n<li>Benotete Klausur</li>\r\n<li>Gruppenarbeit (Bericht)</li>\r\n</ol>",
+    "LEISTUNGEN": "<ol type=\"a\">\r\n<li>Benotete Klausur</li>\r\n<li>Benotete Pr&auml;sentation/Bericht</li>\r\n</ol>",
     "MEDIENFORMEN": null,
     "LITERATUR": "<ul>\r\n<li>TOPSIM: Handbuch zum Planspiel General Management</li>\r\n</ul>\r\n<p>Die Auswahl weiterer ben&ouml;tigter Literatur zur Bew&auml;ltigung der anstehenden Arbeiten und dem Treffen von Entscheidungen ist den TeilnehmerInnen bewusst freigestellt.</p>",
     "SCHWERPUNKTE": null,
@@ -18517,11 +18517,11 @@
     "SONSTIGEINFO": null,
     "MODULKUERZEL": "1006",
     "CREDITS_ZUSATZ": null,
-    "AUFWAND_GESAMT_ZUSATZ": "<p>a) 30h<br />b) 10h</p>",
+    "AUFWAND_GESAMT_ZUSATZ": null,
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "09.04.19"
+    "ZEITSTEMPEL": "25.06.19"
   },
   {
     "UNTERTITEL": null,
@@ -18676,8 +18676,8 @@
     "AUFWAND_STD_SEMINAR": "60",
     "AUFWAND_STD_SELBSTSTUDIUM": "90",
     "CREDITS": "5",
-    "VORAUSSETZUNGEN": "<p>- Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften</p>\r\n<p>- h&ouml;chstens 2 offene Klausuren aus dem Grundstudium</p>",
-    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Technisches Englisch auf einem Niveau vergleichbar mit CEFR B2.1 verstehen, sprechen und schreiben, indem sie technische Fachbegriffe verwenden und die notwendigen grammatischen Formen (Passiv, Imperativ, Konditionals&auml;tze) f&uuml;r Instruktionen oder Notfallplanungen anwenden, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: Kommunikation mit Projektpartnern, Bedienungsanleitungen schreiben, technische Ger&auml;te beschreiben, Prozesse beschreiben, Instruktionen m&uuml;ndlich erteilen, sowie sich schriftlich und m&uuml;ndlich bewerben. Zusammenfassend geht es darum, technische Problemstellungen ad&auml;quat sprachlich bearbeiten und l&ouml;sen zu k&ouml;nnen.</p>",
+    "VORAUSSETZUNGEN": "<p>Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften</p>\r\n<p>- Weiteres entnehmen Sie bitte Ihrer Pr&uuml;fungsordnung</p>",
+    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Technisches Englisch verstehen, sprechen und schreiben, indem sie technische Fachbegriffe verwenden und die notwendigen grammatischen Formen (Passiv, Imperativ, Konditionals&auml;tze) f&uuml;r Instruktionen oder Notfallplanungen anwenden, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: Kommunikation mit Projektpartnern, Bedienungsanleitungen schreiben, technische Ger&auml;te beschreiben, Prozesse beschreiben, Instruktionen m&uuml;ndlich erteilen, sowie sich schriftlich und m&uuml;ndlich bewerben. Zusammenfassend geht es darum, technische Problemstellungen ad&auml;quat sprachlich bearbeiten und l&ouml;sen zu k&ouml;nnen.</p>",
     "INHALT": null,
     "LEISTUNGEN": "<p>Zulassung zur Klausur setzt eine 80% Anwesenheit im Seminar voraus. <br />50 % benotete Mitarbeit im Seminar<br />50 % schriftliche Klausur</p>\r\n<p>Jeder Teil - Seminarvorleistung sowie Klausur - muss bestanden sein.</p>",
     "MEDIENFORMEN": null,
@@ -18697,7 +18697,7 @@
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "04.09.18"
+    "ZEITSTEMPEL": "03.07.19"
   },
   {
     "UNTERTITEL": null,
@@ -34868,12 +34868,12 @@
     "AUFWAND_STD_SEMINAR": "60",
     "AUFWAND_STD_SELBSTSTUDIUM": "90",
     "CREDITS": "5",
-    "VORAUSSETZUNGEN": "<p>Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften, alle Klausuren aus dem Grundstudium bestanden.</p>",
-    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Wirtschaftsenglisch auf einem Niveau vergleichbar mit CEFR B2.1 verstehen, sprechen und schreiben, indem sie wirtschaftliche Fachbegriffe verwenden und geeignete Strukturen f&uuml;r den Aufbau von Pr&auml;sentationen, Bewerbungen oder Kurzstatements nutzen, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: aktiv an Meetings teilnehmen, Verkaufs- und Einkaufsgespr&auml;che sowie Verhandlungen f&uuml;hren, Stellungnahmen formulieren, eine Pr&auml;sentation halten, sowie sich schriftlich und m&uuml;ndlich bewerben.</p>",
+    "VORAUSSETZUNGEN": "<p>Zulassung zu einem der Bachelor-Studieng&auml;nge der Ingenieurwissenschaften, alle Klausuren aus dem Grundstudium bestanden.</p>\r\n<p>- Weiteres entnehmen Sie bitte Ihrer Pr&uuml;fungsordnung</p>",
+    "LERNZIELE_KOMPETENZEN": "<p>Learning Outcomes: Die Studierenden k&ouml;nnen situationsangemessenes Wirtschaftsenglisch verstehen, sprechen und schreiben, indem sie wirtschaftliche Fachbegriffe verwenden und geeignete Strukturen f&uuml;r den Aufbau von Pr&auml;sentationen, Bewerbungen oder Kurzstatements nutzen, um gut vorbereitet zu sein f&uuml;r berufliche Situationen, die auf Englisch zu meistern sind: aktiv an Meetings teilnehmen, Verkaufs- und Einkaufsgespr&auml;che sowie Verhandlungen f&uuml;hren, Stellungnahmen formulieren, eine Pr&auml;sentation halten, sowie sich schriftlich und m&uuml;ndlich bewerben.</p>",
     "INHALT": null,
     "LEISTUNGEN": "<p>Zulassung zur Klausur setzt eine 80% Anwesenheit im Seminar voraus. <br />50 % benotete Mitarbeit im Seminar<br />50 % schriftliche Klausur</p>\r\n<p>Jeder Teil - Seminarvorleistung sowie Klausur - muss bestanden sein.</p>",
     "MEDIENFORMEN": null,
-    "LITERATUR": "<p>Literatur und Lernsoftware</p>\r\n<ul>\r\n<li>\"TechnoPlus English\", Eurokey Software GmbH</li>\r\n<li>\"The Multimedia Business English Course&rdquo;, Hueber Software</li>\r\n<li>Baddock, Barry / Vrobel, Susie: \"Down To Business&rdquo;, Selbstlernkurs, Hueber</li>\r\n<li>B&ouml;hler, Wilfried / Hinck, Michael: \"Wirtschaftsenglisch&rdquo;, Business Cases, Know-How, Soft Skills, Merkur Verlag Rinteln</li>\r\n<li>Bowen, Tim: \"Build Your Business Grammar\", Thomson-Heinle</li>\r\n<li>Geisen, Herbert: \"Englisch in Wirtschaft und Handel\", Cornelsen Verlag</li>\r\n<li>Hamblock, Dieter / Wessels, Dieter: \"Gro&szlig;w&ouml;rterbuch Wirtschaftsenglisch&rdquo; Cornelsen</li>\r\n<li>Hollett, Vicki: \"Business Opportunities\", Oxford University Press</li>\r\n<li>Klarer, Mario: Pr&auml;sentieren auf Englisch, Redline Wirtschaft</li>\r\n<li>Powell, Mark: \"Presenting in English&rdquo;, Thomson</li>\r\n<li>Raymond Murphy: \"English Grammar in Use&rdquo;, Cambridge University Press</li>\r\n<li>Swan, Michael / Walter, Catherine: \"how English works&rdquo;, Oxford University Press</li>\r\n</ul>",
+    "LITERATUR": "<p>Literatur und Lernsoftware</p>\r\n<ul>\r\n<li>\"The Multimedia Business English Course&rdquo;, Hueber Software</li>\r\n<li>Baddock, Barry / Vrobel, Susie: \"Down To Business&rdquo;, Selbstlernkurs, Hueber</li>\r\n<li>B&ouml;hler, Wilfried / Hinck, Michael: \"Wirtschaftsenglisch&rdquo;, Business Cases, Know-How, Soft Skills, Merkur Verlag Rinteln</li>\r\n<li>Bowen, Tim: \"Build Your Business Grammar\", Thomson-Heinle</li>\r\n<li>Geisen, Herbert: \"Englisch in Wirtschaft und Handel\", Cornelsen Verlag</li>\r\n<li>Hamblock, Dieter / Wessels, Dieter: \"Gro&szlig;w&ouml;rterbuch Wirtschaftsenglisch&rdquo; Cornelsen</li>\r\n<li>Hollett, Vicki: \"Business Opportunities\", Oxford University Press</li>\r\n<li>Klarer, Mario: Pr&auml;sentieren auf Englisch, Redline Wirtschaft</li>\r\n<li>Raymond Murphy: \"English Grammar in Use&rdquo;, Cambridge University Press</li>\r\n</ul>",
     "SCHWERPUNKTE": null,
     "AKKREDITIERUNG": "AQAS",
     "DATEVERSION": "10.12.12",
@@ -34889,7 +34889,7 @@
     "SWS_GESAMT_ZUSATZ": null,
     "INDEXSPALTE": null,
     "OBSOLETE": "0",
-    "ZEITSTEMPEL": "04.09.18"
+    "ZEITSTEMPEL": "03.07.19"
   },
   {
     "UNTERTITEL": null,
