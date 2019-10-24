@@ -890,6 +890,56 @@
     "ZEITSTEMPEL": "16.05.19"
   },
   {
+    "DOZENTKUERZEL": "ZM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Matthias",
+    "NACHNAME": "Zapp",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "12.08.19"
+  },
+  {
+    "DOZENTKUERZEL": "AKA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Alleyn",
+    "NACHNAME": "Kane",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "30.08.19"
+  },
+  {
+    "DOZENTKUERZEL": "LI",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Irma",
+    "NACHNAME": "Lindt",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "19.09.19"
+  },
+  {
+    "DOZENTKUERZEL": "BM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Miriam",
+    "NACHNAME": "Bl\u00fcmm",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "24.09.19"
+  },
+  {
+    "DOZENTKUERZEL": "KD",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Fabian",
+    "NACHNAME": "Krampe",
+    "FUNKTION": "Lehrbeauftragte",
+    "ZEITSTEMPEL": "14.10.19"
+  },
+  {
     "DOZENTKUERZEL": "JS",
     "FACHBEREICH": "20",
     "ANREDE": "Herr",
@@ -898,6 +948,26 @@
     "NACHNAME": "Strohschein",
     "FUNKTION": "Lehrbeauftragter",
     "ZEITSTEMPEL": "11.02.19"
+  },
+  {
+    "DOZENTKUERZEL": "MLB",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": null,
+    "VORNAME": "Mirko",
+    "NACHNAME": "Lotz-Blumberg",
+    "FUNKTION": "Mitarbeiter",
+    "ZEITSTEMPEL": "20.08.19"
+  },
+  {
+    "DOZENTKUERZEL": "ZD",
+    "FACHBEREICH": "20",
+    "ANREDE": "Frau",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Dietlind",
+    "NACHNAME": "Z\u00fchlke",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "26.08.19"
   },
   {
     "DOZENTKUERZEL": "TJ",
@@ -1563,7 +1633,7 @@
     "DOZENTKUERZEL": "RI",
     "FACHBEREICH": "20",
     "ANREDE": "Frau",
-    "TITEL": null,
+    "TITEL": "M.Sc.",
     "VORNAME": "Petra",
     "NACHNAME": "Riemer",
     "FUNKTION": "Lehrbeauftragte",

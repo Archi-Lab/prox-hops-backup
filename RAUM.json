@@ -1,5 +1,20 @@
 [
   {
+    "RAUM_KZ": "Kino 2",
+    "ORT": "GM",
+    "BEZEICHNUNG": "H\u00f6rsaal im Kinocenter",
+    "RAUMART": "Lehre",
+    "ANZAHL_SITZPLATZ": "229",
+    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": "0",
+    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": "0",
+    "LE_PRIO_PRUEFUNG": "INF",
+    "ISTLEHRRAUM": "1",
+    "TELEFONNUMMER": null,
+    "ANZAHL_BEAMER": "2",
+    "ANZAHL_OVERHEADPROJEKTOR": null,
+    "ANZAHL_PC": null
+  },
+  {
     "RAUM_KZ": "ZO6-1",
     "ORT": "K\u00f6ln",
     "BEZEICHNUNG": "K\u00f6ln-Deutz",
@@ -11,6 +26,21 @@
     "ISTLEHRRAUM": null,
     "TELEFONNUMMER": null,
     "ANZAHL_BEAMER": null,
+    "ANZAHL_OVERHEADPROJEKTOR": null,
+    "ANZAHL_PC": null
+  },
+  {
+    "RAUM_KZ": "Kino 7",
+    "ORT": "GM",
+    "BEZEICHNUNG": "H\u00f6rsaal im Kinocenter",
+    "RAUMART": "Lehre",
+    "ANZAHL_SITZPLATZ": "299",
+    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": "0",
+    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": "0",
+    "LE_PRIO_PRUEFUNG": "INF",
+    "ISTLEHRRAUM": "1",
+    "TELEFONNUMMER": null,
+    "ANZAHL_BEAMER": "2",
     "ANZAHL_OVERHEADPROJEKTOR": null,
     "ANZAHL_PC": null
   },
@@ -152,7 +182,7 @@
   {
     "RAUM_KZ": "2221",
     "ORT": "GM",
-    "BEZEICHNUNG": "Labor f\u00fcr Arbeitswissenschaften",
+    "BEZEICHNUNG": "IBAL-Gro\u00dfraumb\u00fcro",
     "RAUMART": "Labor",
     "ANZAHL_SITZPLATZ": null,
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -167,7 +197,7 @@
   {
     "RAUM_KZ": "2222",
     "ORT": "GM",
-    "BEZEICHNUNG": "BIG-Moderationsraum",
+    "BEZEICHNUNG": "IBAL-Moderationsraum",
     "RAUMART": "Moderation/Besprechung",
     "ANZAHL_SITZPLATZ": "18",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -362,7 +392,7 @@
   {
     "RAUM_KZ": "0226",
     "ORT": "GM",
-    "BEZEICHNUNG": "CAD-Labor Projektraum",
+    "BEZEICHNUNG": "Labor f\u00fcr Schwingungstechnik und Leichtbau",
     "RAUMART": "Labor",
     "ANZAHL_SITZPLATZ": "16",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -482,7 +512,7 @@
   {
     "RAUM_KZ": "1247",
     "ORT": "GM",
-    "BEZEICHNUNG": "WK-Direktor/Besprechung / Institutsdirektor",
+    "BEZEICHNUNG": "IAM-Professor / Besprechung",
     "RAUMART": "B\u00fcro/Besprechung",
     "ANZAHL_SITZPLATZ": "16",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -497,7 +527,7 @@
   {
     "RAUM_KZ": "2112",
     "ORT": "GM",
-    "BEZEICHNUNG": "PC-Pool Mathe f\u00fcr Ingenieure",
+    "BEZEICHNUNG": "Labor f\u00fcr numerische Simulation und Systemtechnik",
     "RAUMART": "PC-Pool",
     "ANZAHL_SITZPLATZ": null,
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -1367,7 +1397,7 @@
   {
     "RAUM_KZ": "0212",
     "ORT": "GM",
-    "BEZEICHNUNG": "Labor f\u00fcr Kunststoffmaschinen",
+    "BEZEICHNUNG": "Faserverbundlabor",
     "RAUMART": "Labor",
     "ANZAHL_SITZPLATZ": null,
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -1382,7 +1412,7 @@
   {
     "RAUM_KZ": "0213",
     "ORT": "GM",
-    "BEZEICHNUNG": "Labor f. Qualit\u00e4tssicherung",
+    "BEZEICHNUNG": "Labor f\u00fcr Qualit\u00e4tssicherung",
     "RAUMART": "Labor",
     "ANZAHL_SITZPLATZ": null,
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -1397,7 +1427,7 @@
   {
     "RAUM_KZ": "0214",
     "ORT": "GM",
-    "BEZEICHNUNG": "PPQ Projektraum",
+    "BEZEICHNUNG": "IAM Projektraum",
     "RAUMART": "Moderation/Besprechung",
     "ANZAHL_SITZPLATZ": "20",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
@@ -1515,21 +1545,6 @@
     "ANZAHL_PC": null
   },
   {
-    "RAUM_KZ": "R-238",
-    "ORT": "K\u00f6ln",
-    "BEZEICHNUNG": "Ubierring 48 (fr\u00fcher Mainzer Strasse)",
-    "RAUMART": "Lehre",
-    "ANZAHL_SITZPLATZ": null,
-    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
-    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": null,
-    "LE_PRIO_PRUEFUNG": null,
-    "ISTLEHRRAUM": "0",
-    "TELEFONNUMMER": null,
-    "ANZAHL_BEAMER": null,
-    "ANZAHL_OVERHEADPROJEKTOR": null,
-    "ANZAHL_PC": null
-  },
-  {
     "RAUM_KZ": "3126",
     "ORT": "GM",
     "BEZEICHNUNG": "Besprechungszimmer MI",
@@ -1575,24 +1590,9 @@
     "ANZAHL_PC": null
   },
   {
-    "RAUM_KZ": "R-218",
-    "ORT": "K\u00f6ln",
-    "BEZEICHNUNG": "KIDS, Raum 238, Ubierring 40",
-    "RAUMART": "Lehre",
-    "ANZAHL_SITZPLATZ": null,
-    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
-    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": null,
-    "LE_PRIO_PRUEFUNG": null,
-    "ISTLEHRRAUM": "0",
-    "TELEFONNUMMER": null,
-    "ANZAHL_BEAMER": null,
-    "ANZAHL_OVERHEADPROJEKTOR": null,
-    "ANZAHL_PC": null
-  },
-  {
     "RAUM_KZ": "H32-HA",
     "ORT": "GM",
-    "BEZEICHNUNG": "Halle 32: Halle",
+    "BEZEICHNUNG": "Halle 32: Halle (nur f\u00fcr Pr\u00fcfung)",
     "RAUMART": "Pr\u00fcfung",
     "ANZAHL_SITZPLATZ": "250",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": "79",
@@ -1602,36 +1602,6 @@
     "TELEFONNUMMER": null,
     "ANZAHL_BEAMER": "1",
     "ANZAHL_OVERHEADPROJEKTOR": "1",
-    "ANZAHL_PC": null
-  },
-  {
-    "RAUM_KZ": "H32-LC",
-    "ORT": "GM",
-    "BEZEICHNUNG": "Halle 32: Raum L&C",
-    "RAUMART": "nV",
-    "ANZAHL_SITZPLATZ": "80",
-    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": "19",
-    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": "19",
-    "LE_PRIO_PRUEFUNG": "INF",
-    "ISTLEHRRAUM": "1",
-    "TELEFONNUMMER": null,
-    "ANZAHL_BEAMER": "1",
-    "ANZAHL_OVERHEADPROJEKTOR": "1",
-    "ANZAHL_PC": null
-  },
-  {
-    "RAUM_KZ": "H-7",
-    "ORT": "K\u00f6ln",
-    "BEZEICHNUNG": "H\u00f6rsaal 7 am Campus K\u00f6ln-Deutz",
-    "RAUMART": "Lehre",
-    "ANZAHL_SITZPLATZ": null,
-    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
-    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": null,
-    "LE_PRIO_PRUEFUNG": null,
-    "ISTLEHRRAUM": "0",
-    "TELEFONNUMMER": null,
-    "ANZAHL_BEAMER": null,
-    "ANZAHL_OVERHEADPROJEKTOR": null,
     "ANZAHL_PC": null
   },
   {
@@ -1667,7 +1637,7 @@
   {
     "RAUM_KZ": "1520",
     "ORT": "GM",
-    "BEZEICHNUNG": "Besprechungsraum F10 LC6",
+    "BEZEICHNUNG": "Besprechungsraum FSQ & IDEA & IAM",
     "RAUMART": "Moderation/Besprechung",
     "ANZAHL_SITZPLATZ": "16",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": "8",
@@ -1682,7 +1652,7 @@
   {
     "RAUM_KZ": "1522",
     "ORT": "GM",
-    "BEZEICHNUNG": "Besprechungsraum-FSQFSG LC6",
+    "BEZEICHNUNG": "Besprechungsraum FSQ & IDEA & IAM",
     "RAUMART": "Moderation/Besprechung",
     "ANZAHL_SITZPLATZ": "22",
     "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": "10",

@@ -1125,15 +1125,6 @@
     "MODULKUERZEL": "2302"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
-    "SG_KZ": "AMA_B",
-    "SR_KZ": "AMFM",
-    "SEMESTER": "WS",
-    "DATEVERSION": "10.12.12",
-    "ID": "6384",
-    "MODULKUERZEL": "1667"
-  },
-  {
     "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
     "SG_KZ": "MI_M",
     "SR_KZ": null,
@@ -1141,42 +1132,6 @@
     "DATEVERSION": "03.09.13",
     "ID": "6385",
     "MODULKUERZEL": "1798"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6389",
-    "MODULKUERZEL": "1832"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6390",
-    "MODULKUERZEL": "1832"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6392",
-    "MODULKUERZEL": "1832"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
-    "SG_KZ": "AMA_B",
-    "SR_KZ": "AMFK",
-    "SEMESTER": "WS",
-    "DATEVERSION": "10.12.12",
-    "ID": "6393",
-    "MODULKUERZEL": "1667"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
@@ -1204,24 +1159,6 @@
     "DATEVERSION": "10.12.12",
     "ID": "6396",
     "MODULKUERZEL": "1970"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
-    "SG_KZ": "AMA_B",
-    "SR_KZ": "AMK",
-    "SEMESTER": "WS",
-    "DATEVERSION": "10.12.12",
-    "ID": "6397",
-    "MODULKUERZEL": "1667"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
-    "SG_KZ": "AMA_B",
-    "SR_KZ": "AMFK",
-    "SEMESTER": "WS",
-    "DATEVERSION": "10.12.12",
-    "ID": "6398",
-    "MODULKUERZEL": "1667"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -1303,15 +1240,6 @@
     "DATEVERSION": "03.09.13",
     "ID": "6408",
     "MODULKUERZEL": "1638"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6409",
-    "MODULKUERZEL": "1832"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlkatalog",
@@ -1564,42 +1492,6 @@
     "DATEVERSION": "03.09.13",
     "ID": "6437",
     "MODULKUERZEL": "1799"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6438",
-    "MODULKUERZEL": "1810"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6439",
-    "MODULKUERZEL": "1810"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6440",
-    "MODULKUERZEL": "1810"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6441",
-    "MODULKUERZEL": "1810"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -2353,9 +2245,9 @@
     "SG_KZ": "WIN_B",
     "SR_KZ": "WIE",
     "SEMESTER": "5. Sem.",
-    "DATEVERSION": "10.12.12",
+    "DATEVERSION": "31.08.13",
     "ID": "6525",
-    "MODULKUERZEL": "1253"
+    "MODULKUERZEL": "1476"
   },
   {
     "ZUORDNUNG_CURRICULUM": "WPF",
@@ -3548,7 +3440,7 @@
   {
     "ZUORDNUNG_CURRICULUM": "Modulblock II - Technik II",
     "SG_KZ": "WIN_M",
-    "SR_KZ": null,
+    "SR_KZ": "WIT",
     "SEMESTER": "2. Sem.",
     "DATEVERSION": "10.12.12",
     "ID": "6014",
@@ -4324,9 +4216,9 @@
     "SG_KZ": "WIN_B",
     "SR_KZ": "WIM",
     "SEMESTER": "5. Sem.",
-    "DATEVERSION": "10.12.12",
+    "DATEVERSION": "31.08.13",
     "ID": "6101",
-    "MODULKUERZEL": "1253"
+    "MODULKUERZEL": "1476"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Schwerpunktf\u00e4cher",
@@ -5734,12 +5626,12 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
+    "SG_KZ": "ITM_B",
     "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7954",
-    "MODULKUERZEL": "1945"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8587",
+    "MODULKUERZEL": "3065"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlkatalog",
@@ -5752,12 +5644,12 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
+    "SG_KZ": "WI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7956",
-    "MODULKUERZEL": "1945"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8588",
+    "MODULKUERZEL": "3065"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
@@ -5868,31 +5760,22 @@
     "MODULKUERZEL": "2948"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7958",
-    "MODULKUERZEL": "1945"
+    "ZUORDNUNG_CURRICULUM": "Wahlpflichtfach",
+    "SG_KZ": "WIN_B",
+    "SR_KZ": "WIM",
+    "SEMESTER": "5. oder 6. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8574",
+    "MODULKUERZEL": "2986"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7960",
-    "MODULKUERZEL": "1945"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": null,
-    "SG_KZ": "ITM_B",
-    "SR_KZ": null,
-    "SEMESTER": null,
-    "DATEVERSION": "03.09.13",
-    "ID": "7962",
-    "MODULKUERZEL": "1945"
+    "ZUORDNUNG_CURRICULUM": "Wahlpflichtfach",
+    "SG_KZ": "WIN_B",
+    "SR_KZ": "WIE",
+    "SEMESTER": "5. oder 6. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8575",
+    "MODULKUERZEL": "2986"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
@@ -5985,49 +5868,13 @@
     "MODULKUERZEL": "1806"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
+    "ZUORDNUNG_CURRICULUM": "WPF",
+    "SG_KZ": "WIN_B",
+    "SR_KZ": "WIM",
+    "SEMESTER": "4",
     "DATEVERSION": "23.05.17",
-    "ID": "7483",
-    "MODULKUERZEL": "2847"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7491",
-    "MODULKUERZEL": "2485"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7493",
-    "MODULKUERZEL": "2485"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "ITM_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7495",
-    "MODULKUERZEL": "2485"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7497",
-    "MODULKUERZEL": "2485"
+    "ID": "8643",
+    "MODULKUERZEL": "3105"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
@@ -6066,6 +5913,15 @@
     "MODULKUERZEL": "1761"
   },
   {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8010",
+    "MODULKUERZEL": "2685"
+  },
+  {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
     "SG_KZ": "AMA_B",
     "SR_KZ": "AMFK",
@@ -6075,76 +5931,13 @@
     "MODULKUERZEL": "2925"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
+    "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
+    "SG_KZ": "MI_M",
     "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
+    "SEMESTER": "WS",
     "DATEVERSION": "23.05.17",
-    "ID": "7449",
-    "MODULKUERZEL": "2627"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7451",
-    "MODULKUERZEL": "2627"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7453",
-    "MODULKUERZEL": "2627"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7455",
-    "MODULKUERZEL": "2627"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": null,
-    "SG_KZ": "ITM_B",
-    "SR_KZ": null,
-    "SEMESTER": null,
-    "DATEVERSION": "23.05.17",
-    "ID": "7457",
-    "MODULKUERZEL": "2627"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7485",
-    "MODULKUERZEL": "2847"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7487",
-    "MODULKUERZEL": "2847"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7489",
-    "MODULKUERZEL": "2847"
+    "ID": "8604",
+    "MODULKUERZEL": "3085"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
@@ -6181,6 +5974,87 @@
     "DATEVERSION": "23.05.17",
     "ID": "7582",
     "MODULKUERZEL": "2925"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8012",
+    "MODULKUERZEL": "2685"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8014",
+    "MODULKUERZEL": "2685"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8016",
+    "MODULKUERZEL": "2685"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8022",
+    "MODULKUERZEL": "1945"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8024",
+    "MODULKUERZEL": "1945"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8026",
+    "MODULKUERZEL": "1945"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": null,
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": null,
+    "DATEVERSION": "03.09.13",
+    "ID": "8028",
+    "MODULKUERZEL": "1945"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": null,
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": null,
+    "DATEVERSION": "23.05.17",
+    "ID": "8018",
+    "MODULKUERZEL": "2685"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8020",
+    "MODULKUERZEL": "1945"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -6433,42 +6307,6 @@
     "DATEVERSION": "03.09.13",
     "ID": "6679",
     "MODULKUERZEL": "1975"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6680",
-    "MODULKUERZEL": "2037"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6681",
-    "MODULKUERZEL": "2037"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6682",
-    "MODULKUERZEL": "2037"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6683",
-    "MODULKUERZEL": "2037"
   },
   {
     "ZUORDNUNG_CURRICULUM": "WPF",
@@ -6975,15 +6813,6 @@
     "MODULKUERZEL": "2266"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Pflichtbereich",
-    "SG_KZ": "WIN_M",
-    "SR_KZ": "WIER",
-    "SEMESTER": "1. oder 2. Sem.",
-    "DATEVERSION": "30.03.17",
-    "ID": "6743",
-    "MODULKUERZEL": "2566"
-  },
-  {
     "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
     "SG_KZ": "MI_M",
     "SR_KZ": null,
@@ -7180,15 +7009,6 @@
     "DATEVERSION": "03.09.13",
     "ID": "6765",
     "MODULKUERZEL": "2105"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Pflichtbereich",
-    "SG_KZ": "WIN_M",
-    "SR_KZ": "WIT",
-    "SEMESTER": "1. oder 2. Sem.",
-    "DATEVERSION": "30.03.17",
-    "ID": "6766",
-    "MODULKUERZEL": "2566"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Pflichtbereich",
@@ -7408,39 +7228,84 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
+    "SG_KZ": "AI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6794",
-    "MODULKUERZEL": "2147"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8552",
+    "MODULKUERZEL": "2805"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
+    "SG_KZ": "MI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6795",
-    "MODULKUERZEL": "2147"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8554",
+    "MODULKUERZEL": "2805"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
     "SG_KZ": "WI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6796",
-    "MODULKUERZEL": "2147"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8556",
+    "MODULKUERZEL": "2805"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
-    "SG_KZ": "MI_M",
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "ITM_B",
     "SR_KZ": null,
-    "SEMESTER": "1. oder 3. Sem.",
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8558",
+    "MODULKUERZEL": "2805"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
+    "SG_KZ": "AMA_B",
+    "SR_KZ": "AMFM",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "10.12.12",
+    "ID": "8624",
+    "MODULKUERZEL": "1667"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
+    "SG_KZ": "AMA_B",
+    "SR_KZ": "AMFK",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "10.12.12",
+    "ID": "8626",
+    "MODULKUERZEL": "1667"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
+    "SG_KZ": "AMA_B",
+    "SR_KZ": "AMK",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "10.12.12",
+    "ID": "8628",
+    "MODULKUERZEL": "1667"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
+    "SG_KZ": "AMA_B",
+    "SR_KZ": "AMFK",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "10.12.12",
+    "ID": "8630",
+    "MODULKUERZEL": "1667"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Wahl",
+    "SG_KZ": "WIN_M",
+    "SR_KZ": "WIT",
+    "SEMESTER": "WS",
     "DATEVERSION": "03.09.13",
-    "ID": "6797",
-    "MODULKUERZEL": "2147"
+    "ID": "8707",
+    "MODULKUERZEL": "1637"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
@@ -7452,31 +7317,31 @@
     "MODULKUERZEL": "2888"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "6805",
-    "MODULKUERZEL": "2805"
+    "ZUORDNUNG_CURRICULUM": "Wahl",
+    "SG_KZ": "WIN_M",
+    "SR_KZ": "WIER",
+    "SEMESTER": "WS",
+    "DATEVERSION": "03.09.13",
+    "ID": "8708",
+    "MODULKUERZEL": "1637"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "6806",
-    "MODULKUERZEL": "2805"
+    "ZUORDNUNG_CURRICULUM": "Projekte",
+    "SG_KZ": "I_M",
+    "SR_KZ": "WIF",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "03.09.13",
+    "ID": "8723",
+    "MODULKUERZEL": "1646"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "6807",
-    "MODULKUERZEL": "2805"
+    "ZUORDNUNG_CURRICULUM": "Projekte",
+    "SG_KZ": "I_M",
+    "SR_KZ": "SOF",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "03.09.13",
+    "ID": "8724",
+    "MODULKUERZEL": "1647"
   },
   {
     "ZUORDNUNG_CURRICULUM": "WPF",
@@ -7533,13 +7398,22 @@
     "MODULKUERZEL": "2845"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
+    "ZUORDNUNG_CURRICULUM": "Projekte",
+    "SG_KZ": "I_M",
+    "SR_KZ": "WIF",
+    "SEMESTER": "WS / SS",
     "DATEVERSION": "03.09.13",
-    "ID": "6818",
-    "MODULKUERZEL": "1946"
+    "ID": "8725",
+    "MODULKUERZEL": "1648"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Projekte",
+    "SG_KZ": "I_M",
+    "SR_KZ": "SOF",
+    "SEMESTER": "WS / SS",
+    "DATEVERSION": "03.09.13",
+    "ID": "8726",
+    "MODULKUERZEL": "1649"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -7558,42 +7432,6 @@
     "DATEVERSION": "03.09.13",
     "ID": "6824",
     "MODULKUERZEL": "2011"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6825",
-    "MODULKUERZEL": "1946"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6826",
-    "MODULKUERZEL": "1946"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6827",
-    "MODULKUERZEL": "1946"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "6832",
-    "MODULKUERZEL": "2147"
   },
   {
     "ZUORDNUNG_CURRICULUM": "WPF",
@@ -7684,15 +7522,6 @@
     "DATEVERSION": "23.05.17",
     "ID": "6842",
     "MODULKUERZEL": "2845"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
-    "SR_KZ": null,
-    "SEMESTER": "5. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "6843",
-    "MODULKUERZEL": "2805"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Vertiefung",
@@ -8006,26 +7835,8 @@
     "SR_KZ": "WIER",
     "SEMESTER": "1. oder 2. Sem.",
     "DATEVERSION": "30.03.17",
-    "ID": "6884",
-    "MODULKUERZEL": "2574"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Pflichtbereich",
-    "SG_KZ": "WIN_M",
-    "SR_KZ": "WIER",
-    "SEMESTER": "1. oder 2. Sem.",
-    "DATEVERSION": "30.03.17",
     "ID": "6885",
     "MODULKUERZEL": "2575"
-  },
-  {
-    "ZUORDNUNG_CURRICULUM": "Pflichtbereich",
-    "SG_KZ": "WIN_M",
-    "SR_KZ": "WIER",
-    "SEMESTER": "1. oder 2. Sem.",
-    "DATEVERSION": "30.03.17",
-    "ID": "6886",
-    "MODULKUERZEL": "2576"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlkatalog",
@@ -9578,7 +9389,7 @@
   {
     "ZUORDNUNG_CURRICULUM": "Modulblock I - Technik I",
     "SG_KZ": "WIN_M",
-    "SR_KZ": null,
+    "SR_KZ": "WIT",
     "SEMESTER": "1. Sem.",
     "DATEVERSION": "10.12.12",
     "ID": "7083",
@@ -9613,12 +9424,12 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "TI_B",
+    "SG_KZ": "AI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
+    "SEMESTER": "5. Sem.",
     "DATEVERSION": "03.09.13",
-    "ID": "7966",
-    "MODULKUERZEL": "1813"
+    "ID": "8544",
+    "MODULKUERZEL": "1832"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -9901,12 +9712,30 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8546",
+    "MODULKUERZEL": "1832"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
     "SG_KZ": "WI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
+    "SEMESTER": "5. Sem.",
     "DATEVERSION": "03.09.13",
-    "ID": "7968",
-    "MODULKUERZEL": "1813"
+    "ID": "8548",
+    "MODULKUERZEL": "1832"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8550",
+    "MODULKUERZEL": "1832"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -10161,13 +9990,13 @@
     "MODULKUERZEL": "2953"
   },
   {
-    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "AI_B",
+    "ZUORDNUNG_CURRICULUM": "Vertiefung",
+    "SG_KZ": "MI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7850",
-    "MODULKUERZEL": "2486"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "18.04.11",
+    "ID": "8564",
+    "MODULKUERZEL": "2987"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlpflichtfach",
@@ -10180,39 +10009,84 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "MI_B",
+    "SG_KZ": "AI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7852",
-    "MODULKUERZEL": "2486"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8566",
+    "MODULKUERZEL": "3025"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
     "SG_KZ": "TI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7854",
-    "MODULKUERZEL": "2486"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8568",
+    "MODULKUERZEL": "3025"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
     "SG_KZ": "WI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. oder 5. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7856",
-    "MODULKUERZEL": "2486"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8570",
+    "MODULKUERZEL": "3025"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8572",
+    "MODULKUERZEL": "3025"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8584",
+    "MODULKUERZEL": "3065"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
     "SG_KZ": "AI_B",
     "SR_KZ": null,
-    "SEMESTER": "4. Sem.",
-    "DATEVERSION": "03.09.13",
-    "ID": "7964",
-    "MODULKUERZEL": "1813"
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8586",
+    "MODULKUERZEL": "3065"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8698",
+    "MODULKUERZEL": "3005"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8700",
+    "MODULKUERZEL": "3005"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8702",
+    "MODULKUERZEL": "3005"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlkatalog",
@@ -10222,6 +10096,42 @@
     "DATEVERSION": "23.05.17",
     "ID": "7863",
     "MODULKUERZEL": "2306"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8704",
+    "MODULKUERZEL": "3005"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": null,
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": null,
+    "DATEVERSION": "23.05.17",
+    "ID": "8706",
+    "MODULKUERZEL": "3005"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8274",
+    "MODULKUERZEL": "2037"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8276",
+    "MODULKUERZEL": "2037"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
@@ -10279,12 +10189,66 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "ITM_B",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8278",
+    "MODULKUERZEL": "2037"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8272",
+    "MODULKUERZEL": "2037"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8288",
+    "MODULKUERZEL": "1810"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8290",
+    "MODULKUERZEL": "1810"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8292",
+    "MODULKUERZEL": "1810"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8294",
+    "MODULKUERZEL": "1810"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
     "SR_KZ": null,
     "SEMESTER": "4. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7232",
-    "MODULKUERZEL": "2685"
+    "DATEVERSION": "03.09.13",
+    "ID": "8052",
+    "MODULKUERZEL": "1946"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Wahlpflichtbereich",
@@ -10306,12 +10270,12 @@
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
-    "SG_KZ": "WI_B",
+    "SG_KZ": "MI_B",
     "SR_KZ": null,
     "SEMESTER": "4. Sem.",
-    "DATEVERSION": "23.05.17",
-    "ID": "7234",
-    "MODULKUERZEL": "2685"
+    "DATEVERSION": "03.09.13",
+    "ID": "8054",
+    "MODULKUERZEL": "1946"
   },
   {
     "ZUORDNUNG_CURRICULUM": "Spezialisierung",
@@ -10404,6 +10368,15 @@
     "MODULKUERZEL": "1069"
   },
   {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8056",
+    "MODULKUERZEL": "1946"
+  },
+  {
     "ZUORDNUNG_CURRICULUM": "WPF",
     "SG_KZ": "EIW_B",
     "SR_KZ": "ELI",
@@ -10458,6 +10431,33 @@
     "MODULKUERZEL": "2505"
   },
   {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8062",
+    "MODULKUERZEL": "1813"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8064",
+    "MODULKUERZEL": "1813"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8160",
+    "MODULKUERZEL": "2147"
+  },
+  {
     "ZUORDNUNG_CURRICULUM": "Wahlfa\u0308cher",
     "SG_KZ": "AMA_B",
     "SR_KZ": "AMFK",
@@ -10510,5 +10510,248 @@
     "DATEVERSION": "27.02.19",
     "ID": "7724",
     "MODULKUERZEL": "2952"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8058",
+    "MODULKUERZEL": "1946"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8162",
+    "MODULKUERZEL": "2147"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8060",
+    "MODULKUERZEL": "1813"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8164",
+    "MODULKUERZEL": "2147"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": null,
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": null,
+    "DATEVERSION": "03.09.13",
+    "ID": "8166",
+    "MODULKUERZEL": "2147"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8334",
+    "MODULKUERZEL": "2986"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8336",
+    "MODULKUERZEL": "2986"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8338",
+    "MODULKUERZEL": "2986"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8480",
+    "MODULKUERZEL": "2485"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8526",
+    "MODULKUERZEL": "2847"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8482",
+    "MODULKUERZEL": "2485"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8484",
+    "MODULKUERZEL": "2485"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8332",
+    "MODULKUERZEL": "2986"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": null,
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": null,
+    "DATEVERSION": "03.09.13",
+    "ID": "8486",
+    "MODULKUERZEL": "2485"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8462",
+    "MODULKUERZEL": "2627"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "TI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8464",
+    "MODULKUERZEL": "2627"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8466",
+    "MODULKUERZEL": "2627"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": null,
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": null,
+    "DATEVERSION": "23.05.17",
+    "ID": "8468",
+    "MODULKUERZEL": "2627"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8478",
+    "MODULKUERZEL": "2485"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8508",
+    "MODULKUERZEL": "2486"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "AI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8460",
+    "MODULKUERZEL": "2627"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8528",
+    "MODULKUERZEL": "2847"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "MI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8510",
+    "MODULKUERZEL": "2486"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8514",
+    "MODULKUERZEL": "2486"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": "4. oder 5. Sem.",
+    "DATEVERSION": "03.09.13",
+    "ID": "8516",
+    "MODULKUERZEL": "2486"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "ITM_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8530",
+    "MODULKUERZEL": "2847"
+  },
+  {
+    "ZUORDNUNG_CURRICULUM": "Spezialisierung",
+    "SG_KZ": "WI_B",
+    "SR_KZ": null,
+    "SEMESTER": "5. Sem.",
+    "DATEVERSION": "23.05.17",
+    "ID": "8532",
+    "MODULKUERZEL": "2847"
   }
 ]

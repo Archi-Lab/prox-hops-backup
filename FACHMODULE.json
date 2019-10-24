@@ -30,12 +30,6 @@
     "ID": "1664"
   },
   {
-    "FACHKUERZEL": "KBER MMW",
-    "DATEVERSION": "30.03.17",
-    "MODULKUERZEL": "2574",
-    "ID": "2010"
-  },
-  {
     "FACHKUERZEL": "SUP PPDM",
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "2287",
@@ -52,12 +46,6 @@
     "DATEVERSION": "30.03.17",
     "MODULKUERZEL": "2575",
     "ID": "2011"
-  },
-  {
-    "FACHKUERZEL": "OSTVP MMW",
-    "DATEVERSION": "30.03.17",
-    "MODULKUERZEL": "2576",
-    "ID": "2012"
   },
   {
     "FACHKUERZEL": "CAETA MMW",
@@ -252,6 +240,12 @@
     "ID": "2202"
   },
   {
+    "FACHKUERZEL": "WPF DCKR",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3005",
+    "ID": "2443"
+  },
+  {
     "FACHKUERZEL": "WUEST M",
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "2888",
@@ -294,16 +288,28 @@
     "ID": "2330"
   },
   {
-    "FACHKUERZEL": null,
-    "DATEVERSION": "07.03.19",
-    "MODULKUERZEL": null,
-    "ID": "2342"
+    "FACHKUERZEL": "WPF DLML",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3025",
+    "ID": "2463"
   },
   {
     "FACHKUERZEL": "BWL1 WI V",
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "1576",
     "ID": "2402"
+  },
+  {
+    "FACHKUERZEL": "WPF AWE",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "2986",
+    "ID": "2423"
+  },
+  {
+    "FACHKUERZEL": "WPF InM",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3065",
+    "ID": "2503"
   },
   {
     "FACHKUERZEL": "WPF2 ITM",
@@ -432,6 +438,18 @@
     "ID": "2332"
   },
   {
+    "FACHKUERZEL": null,
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3045",
+    "ID": "2483"
+  },
+  {
+    "FACHKUERZEL": "MMUG MI V",
+    "DATEVERSION": "18.04.11",
+    "MODULKUERZEL": "2987",
+    "ID": "2485"
+  },
+  {
     "FACHKUERZEL": "WPF DK",
     "DATEVERSION": "03.09.13",
     "MODULKUERZEL": "2165",
@@ -514,6 +532,18 @@
     "DATEVERSION": "27.02.19",
     "MODULKUERZEL": "2952",
     "ID": "2339"
+  },
+  {
+    "FACHKUERZEL": "WPF ES",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3085",
+    "ID": "2523"
+  },
+  {
+    "FACHKUERZEL": "SPAN",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3105",
+    "ID": "2542"
   },
   {
     "FACHKUERZEL": "COM WI V",
@@ -1074,7 +1104,7 @@
     "ID": "1116"
   },
   {
-    "FACHKUERZEL": "IUG AI MI TI WI V",
+    "FACHKUERZEL": "IUG AI ITM MI WI V",
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "1039",
     "ID": "1117"
@@ -1200,7 +1230,7 @@
     "ID": "1139"
   },
   {
-    "FACHKUERZEL": "SWKM",
+    "FACHKUERZEL": "SWK",
     "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1025",
     "ID": "1140"
@@ -1465,7 +1495,7 @@
   },
   {
     "FACHKUERZEL": "STL M",
-    "DATEVERSION": "22.06.11",
+    "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1024",
     "ID": "1186"
   },
@@ -1494,7 +1524,7 @@
     "ID": "1190"
   },
   {
-    "FACHKUERZEL": "WK2 M",
+    "FACHKUERZEL": "WKII M",
     "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1449",
     "ID": "1191"
@@ -1872,7 +1902,7 @@
     "ID": "1257"
   },
   {
-    "FACHKUERZEL": "MUG MI",
+    "FACHKUERZEL": "MUG MI V",
     "DATEVERSION": "18.04.11",
     "MODULKUERZEL": "1589",
     "ID": "1258"
@@ -2148,12 +2178,6 @@
     "ID": "1304"
   },
   {
-    "FACHKUERZEL": "MRMUG MMI",
-    "DATEVERSION": "27.06.11",
-    "MODULKUERZEL": "1573",
-    "ID": "1305"
-  },
-  {
     "FACHKUERZEL": "BI2 M",
     "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1123",
@@ -2406,9 +2430,9 @@
     "ID": "1347"
   },
   {
-    "FACHKUERZEL": "FUI WI V",
-    "DATEVERSION": "10.12.12",
-    "MODULKUERZEL": "1253",
+    "FACHKUERZEL": "FUIMB",
+    "DATEVERSION": "31.08.13",
+    "MODULKUERZEL": "1476",
     "ID": "1348"
   },
   {
@@ -2838,7 +2862,7 @@
     "ID": "1419"
   },
   {
-    "FACHKUERZEL": "WK1 M",
+    "FACHKUERZEL": "WKI M",
     "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1089",
     "ID": "1420"
@@ -2976,7 +3000,7 @@
     "ID": "1442"
   },
   {
-    "FACHKUERZEL": "GP I IMSE DE",
+    "FACHKUERZEL": "GP I IM DE",
     "DATEVERSION": "03.09.13",
     "MODULKUERZEL": "1646",
     "ID": "1443"
@@ -3006,7 +3030,7 @@
     "ID": "1447"
   },
   {
-    "FACHKUERZEL": "PP AI V",
+    "FACHKUERZEL": "PP AI MI V",
     "DATEVERSION": "31.08.13",
     "MODULKUERZEL": "1043",
     "ID": "1448"
@@ -3084,19 +3108,19 @@
     "ID": "1461"
   },
   {
-    "FACHKUERZEL": "GP I IMWI EN",
+    "FACHKUERZEL": "GP I IM EN",
     "DATEVERSION": "03.09.13",
     "MODULKUERZEL": "1647",
     "ID": "1462"
   },
   {
-    "FACHKUERZEL": "GP II/III IMSE DE",
+    "FACHKUERZEL": "GP II/III IM DE",
     "DATEVERSION": "03.09.13",
     "MODULKUERZEL": "1648",
     "ID": "1463"
   },
   {
-    "FACHKUERZEL": "GP II/III IMWI EN",
+    "FACHKUERZEL": "GP II/III IM EN",
     "DATEVERSION": "03.09.13",
     "MODULKUERZEL": "1649",
     "ID": "1464"
@@ -3388,12 +3412,6 @@
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "2406",
     "ID": "1785"
-  },
-  {
-    "FACHKUERZEL": "BE MMW",
-    "DATEVERSION": "30.03.17",
-    "MODULKUERZEL": "2566",
-    "ID": "2003"
   },
   {
     "FACHKUERZEL": "BV MMW",
