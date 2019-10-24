@@ -10,4 +10,4 @@ for i in ${PARAMS[@]}; do
     > ${i}.json
 done
 
-prettier/.bin/prettier --write *.json
+npx prettier --write *.json
