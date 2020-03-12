@@ -4006,9 +4006,9 @@
   {
     "FB_NR": "19",
     "SG_KZ": "MWM",
-    "SEMESTER_NR": "3",
+    "SEMESTER_NR": "4",
     "FACHKUERZEL": "TUTWK2",
-    "ZEITSTEMPEL": "01.03.17"
+    "ZEITSTEMPEL": "21.02.20"
   },
   {
     "FB_NR": "19",
@@ -4020,9 +4020,9 @@
   {
     "FB_NR": "19",
     "SG_KZ": "MM",
-    "SEMESTER_NR": "3",
+    "SEMESTER_NR": "4",
     "FACHKUERZEL": "TUTWK2",
-    "ZEITSTEMPEL": "01.03.17"
+    "ZEITSTEMPEL": "21.02.20"
   },
   {
     "FB_NR": "19",
@@ -5363,13 +5363,6 @@
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "MM",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "TUTWK1",
-    "ZEITSTEMPEL": "01.03.17"
-  },
-  {
-    "FB_NR": "19",
     "SG_KZ": "MMII",
     "SEMESTER_NR": "2",
     "FACHKUERZEL": "TUTM2 B 1",
@@ -5401,13 +5394,6 @@
     "SG_KZ": "WI",
     "SEMESTER_NR": "4",
     "FACHKUERZEL": "DB2 AI WI UE",
-    "ZEITSTEMPEL": "01.03.17"
-  },
-  {
-    "FB_NR": "19",
-    "SG_KZ": "MW",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "TUTWK1",
     "ZEITSTEMPEL": "01.03.17"
   },
   {
@@ -6373,13 +6359,6 @@
     "FB_NR": "19",
     "SG_KZ": "MWM",
     "SEMESTER_NR": "4",
-    "FACHKUERZEL": "TUTWK1",
-    "ZEITSTEMPEL": "01.03.17"
-  },
-  {
-    "FB_NR": "19",
-    "SG_KZ": "MWM",
-    "SEMESTER_NR": "4",
     "FACHKUERZEL": "AOR M",
     "ZEITSTEMPEL": "01.03.17"
   },
@@ -6389,13 +6368,6 @@
     "SEMESTER_NR": "4",
     "FACHKUERZEL": "AOR M",
     "ZEITSTEMPEL": "01.03.17"
-  },
-  {
-    "FB_NR": "19",
-    "SG_KZ": "MW",
-    "SEMESTER_NR": "3",
-    "FACHKUERZEL": "WKI M",
-    "ZEITSTEMPEL": "09.09.19"
   },
   {
     "FB_NR": "20",
@@ -9325,6 +9297,13 @@
   },
   {
     "FB_NR": "19",
+    "SG_KZ": "MMF",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "PROM M",
+    "ZEITSTEMPEL": "14.11.19"
+  },
+  {
+    "FB_NR": "19",
     "SG_KZ": "MWM",
     "SEMESTER_NR": "4",
     "FACHKUERZEL": "SPAN",
@@ -9332,17 +9311,17 @@
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "MWM",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WKI M",
-    "ZEITSTEMPEL": "09.09.19"
+    "SG_KZ": "MMK",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "PROM M",
+    "ZEITSTEMPEL": "14.11.19"
   },
   {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
+    "FB_NR": "19",
+    "SG_KZ": "MMII",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF DCKR",
-    "ZEITSTEMPEL": "09.10.19"
+    "FACHKUERZEL": "PROM M",
+    "ZEITSTEMPEL": "14.11.19"
   },
   {
     "FB_NR": "19",
@@ -9408,32 +9387,11 @@
     "ZEITSTEMPEL": "26.03.19"
   },
   {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF DCKR",
-    "ZEITSTEMPEL": "09.10.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "TI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF DCKR",
-    "ZEITSTEMPEL": "09.10.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "WI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF DCKR",
-    "ZEITSTEMPEL": "09.10.19"
-  },
-  {
     "FB_NR": "19",
-    "SG_KZ": "MM",
+    "SG_KZ": "AI",
     "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WKI M",
-    "ZEITSTEMPEL": "09.09.19"
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
   },
   {
     "FB_NR": "19",
@@ -9518,6 +9476,69 @@
     "SEMESTER_NR": "4",
     "FACHKUERZEL": "WPF BPI",
     "ZEITSTEMPEL": "06.07.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MWM",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MWM",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MWE",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
   },
   {
     "FB_NR": "20",
@@ -10073,6 +10094,13 @@
     "ZEITSTEMPEL": "04.10.19"
   },
   {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "1580831467011",
+    "ZEITSTEMPEL": "04.02.20"
+  },
+  {
     "FB_NR": "19",
     "SG_KZ": "EEL",
     "SEMESTER_NR": "6",
@@ -10102,10 +10130,52 @@
   },
   {
     "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "1580831467011",
+    "ZEITSTEMPEL": "04.02.20"
+  },
+  {
+    "FB_NR": "20",
     "SG_KZ": "AI",
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "WPF ADT",
     "ZEITSTEMPEL": "24.09.18"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "1580831467011",
+    "ZEITSTEMPEL": "04.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "1580831467011",
+    "ZEITSTEMPEL": "04.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "10.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "10.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "10.02.20"
   },
   {
     "FB_NR": "19",
@@ -10270,6 +10340,34 @@
   },
   {
     "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IMI",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IMI",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IMI",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
     "SG_KZ": "MMI",
     "SEMESTER_NR": "2",
     "FACHKUERZEL": "P1 MMI",
@@ -10370,6 +10468,13 @@
     "FB_NR": "20",
     "SG_KZ": "AI",
     "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
     "FACHKUERZEL": "RE AI ITM WI UE",
     "ZEITSTEMPEL": "30.07.19"
   },
@@ -10417,10 +10522,38 @@
   },
   {
     "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "10.02.20"
+  },
+  {
+    "FB_NR": "20",
     "SG_KZ": "AI",
     "SEMESTER_NR": "4",
     "FACHKUERZEL": "WPF SNM",
     "ZEITSTEMPEL": "06.07.19"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "10.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "10.02.20"
   },
   {
     "FB_NR": "19",
@@ -10428,6 +10561,104 @@
     "SEMESTER_NR": "2",
     "FACHKUERZEL": "EEP MMW PPDM",
     "ZEITSTEMPEL": "25.03.19"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IMI",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF REQ",
+    "ZEITSTEMPEL": "17.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMF",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMK",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMK",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MWM",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MWM",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMII",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMII",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "SWK",
+    "ZEITSTEMPEL": "21.02.20"
   },
   {
     "FB_NR": "20",
@@ -10640,6 +10871,13 @@
     "ZEITSTEMPEL": "11.10.18"
   },
   {
+    "FB_NR": "19",
+    "SG_KZ": "MMW",
+    "SEMESTER_NR": "1",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
+  },
+  {
     "FB_NR": "20",
     "SG_KZ": "ITM",
     "SEMESTER_NR": "5",
@@ -10687,6 +10925,13 @@
     "SEMESTER_NR": "2",
     "FACHKUERZEL": "SGMP PPDM",
     "ZEITSTEMPEL": "11.08.17"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMW",
+    "SEMESTER_NR": "2",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
   },
   {
     "FB_NR": "19",
@@ -10878,6 +11123,27 @@
     "ZEITSTEMPEL": "05.03.18"
   },
   {
+    "FB_NR": "19",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MWE",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF AWE",
+    "ZEITSTEMPEL": "16.12.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MMWE",
+    "SEMESTER_NR": "1",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
+  },
+  {
     "FB_NR": "20",
     "SG_KZ": "AI",
     "SEMESTER_NR": "4",
@@ -10948,11 +11214,11 @@
     "ZEITSTEMPEL": "05.03.18"
   },
   {
-    "FB_NR": "19",
-    "SG_KZ": "MW",
-    "SEMESTER_NR": "3",
-    "FACHKUERZEL": "TUTWK1",
-    "ZEITSTEMPEL": "11.04.19"
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF OS",
+    "ZEITSTEMPEL": "06.03.20"
   },
   {
     "FB_NR": "19",
@@ -11222,10 +11488,10 @@
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "MWM",
-    "SEMESTER_NR": "6",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "20.09.19"
+    "SG_KZ": "MMWE",
+    "SEMESTER_NR": "2",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
   },
   {
     "FB_NR": "20",
@@ -11250,17 +11516,17 @@
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "EAT",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "ST E",
-    "ZEITSTEMPEL": "19.09.19"
+    "SG_KZ": "MMWT",
+    "SEMESTER_NR": "1",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "EEL",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "ST E",
-    "ZEITSTEMPEL": "19.09.19"
+    "SG_KZ": "MMWT",
+    "SEMESTER_NR": "2",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
   },
   {
     "FB_NR": "20",
@@ -11278,10 +11544,10 @@
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "MWM",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "20.09.19"
+    "SG_KZ": "PPDM",
+    "SEMESTER_NR": "1",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
   },
   {
     "FB_NR": "20",
@@ -11327,24 +11593,59 @@
   },
   {
     "FB_NR": "19",
-    "SG_KZ": "EAT",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "ST E",
-    "ZEITSTEMPEL": "19.09.19"
+    "SG_KZ": "PPDM",
+    "SEMESTER_NR": "2",
+    "FACHKUERZEL": "WPF CE",
+    "ZEITSTEMPEL": "19.02.20"
   },
   {
-    "FB_NR": "19",
-    "SG_KZ": "MWE",
-    "SEMESTER_NR": "6",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "20.09.19"
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF OS",
+    "ZEITSTEMPEL": "06.03.20"
   },
   {
-    "FB_NR": "19",
-    "SG_KZ": "MWE",
+    "FB_NR": "20",
+    "SG_KZ": "AI",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "20.09.19"
+    "FACHKUERZEL": "WPF IaaS",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF IaaS",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMI",
+    "SEMESTER_NR": "1",
+    "FACHKUERZEL": "WPF FSIOS",
+    "ZEITSTEMPEL": "02.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMI",
+    "SEMESTER_NR": "3",
+    "FACHKUERZEL": "WPF FSIOS",
+    "ZEITSTEMPEL": "02.03.20"
   },
   {
     "FB_NR": "20",
@@ -11401,6 +11702,97 @@
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "WPF SSDS",
     "ZEITSTEMPEL": "27.08.19"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF DCKR",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF OS",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF IaaS",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF OS",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF CABC",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF CABC",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF CABC",
+    "ZEITSTEMPEL": "06.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF CABC",
+    "ZEITSTEMPEL": "06.03.20"
   },
   {
     "FB_NR": "20",
@@ -11530,20 +11922,6 @@
   },
   {
     "FB_NR": "20",
-    "SG_KZ": "MMI",
-    "SEMESTER_NR": "1",
-    "FACHKUERZEL": "WPF FSIOS",
-    "ZEITSTEMPEL": "21.09.18"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MMI",
-    "SEMESTER_NR": "3",
-    "FACHKUERZEL": "WPF FSIOS",
-    "ZEITSTEMPEL": "21.09.18"
-  },
-  {
-    "FB_NR": "20",
     "SG_KZ": "ITM",
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "WPF GSITM",
@@ -11569,20 +11947,6 @@
     "SEMESTER_NR": "1",
     "FACHKUERZEL": "IHM MMW",
     "ZEITSTEMPEL": "11.03.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "28.08.19"
   },
   {
     "FB_NR": "19",
@@ -11625,13 +11989,6 @@
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "SGS M B",
     "ZEITSTEMPEL": "19.03.18"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "28.08.19"
   },
   {
     "FB_NR": "19",
@@ -11716,27 +12073,6 @@
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "WPF DLML",
     "ZEITSTEMPEL": "20.09.19"
-  },
-  {
-    "FB_NR": "19",
-    "SG_KZ": "EEL",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "ST E",
-    "ZEITSTEMPEL": "13.03.19"
-  },
-  {
-    "FB_NR": "19",
-    "SG_KZ": "EEL",
-    "SEMESTER_NR": "6",
-    "FACHKUERZEL": "ST E",
-    "ZEITSTEMPEL": "13.03.19"
-  },
-  {
-    "FB_NR": "19",
-    "SG_KZ": "EAT",
-    "SEMESTER_NR": "6",
-    "FACHKUERZEL": "ST E",
-    "ZEITSTEMPEL": "13.03.19"
   },
   {
     "FB_NR": "19",
@@ -11844,20 +12180,6 @@
     "ZEITSTEMPEL": "23.09.19"
   },
   {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF CABC",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF OS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
     "FB_NR": "19",
     "SG_KZ": "MMW",
     "SEMESTER_NR": "1",
@@ -11867,114 +12189,9 @@
   {
     "FB_NR": "20",
     "SG_KZ": "MI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF OS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "TI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF OS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "WI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF OS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF CABC",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "TI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF CABC",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "MMUG MI V",
     "ZEITSTEMPEL": "19.09.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "ITM",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "23.09.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "ITM",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "23.09.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "WI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "WI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "WI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IaaS",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "ITM",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF AWE",
-    "ZEITSTEMPEL": "28.08.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "WI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF CABC",
-    "ZEITSTEMPEL": "28.08.19"
   },
   {
     "FB_NR": "20",
@@ -12146,59 +12363,59 @@
   },
   {
     "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "20.09.17"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "AI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "20.09.17"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "20.09.17"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "MI",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "20.09.17"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "ITM",
-    "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "30.07.19"
-  },
-  {
-    "FB_NR": "20",
-    "SG_KZ": "ITM",
-    "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "30.07.19"
-  },
-  {
-    "FB_NR": "20",
     "SG_KZ": "WI",
     "SEMESTER_NR": "4",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "20.09.17"
+    "FACHKUERZEL": "SUBC M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "20",
-    "SG_KZ": "WI",
+    "SG_KZ": "MMF",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "WPF IoT",
-    "ZEITSTEMPEL": "20.09.17"
+    "FACHKUERZEL": "SUBC M",
+    "ZEITSTEMPEL": "11.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMF",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "SUBC M",
+    "ZEITSTEMPEL": "11.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMK",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "SUBC M",
+    "ZEITSTEMPEL": "11.02.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMK",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "SUBC M",
+    "ZEITSTEMPEL": "11.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF PUC",
+    "ZEITSTEMPEL": "12.03.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF PUC",
+    "ZEITSTEMPEL": "12.03.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF PUC",
+    "ZEITSTEMPEL": "12.03.20"
   },
   {
     "FB_NR": "20",
@@ -12274,15 +12491,15 @@
     "FB_NR": "19",
     "SG_KZ": "MWM",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "SGW HUF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF HUF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
     "SG_KZ": "MWM",
     "SEMESTER_NR": "6",
-    "FACHKUERZEL": "SGW HUF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF HUF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "20",
@@ -12295,29 +12512,29 @@
     "FB_NR": "19",
     "SG_KZ": "MWE",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "SGW UMF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF UMF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
     "SG_KZ": "MWE",
     "SEMESTER_NR": "6",
-    "FACHKUERZEL": "SGW UMF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF UMF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
     "SG_KZ": "MWM",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "SGW UMF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF UMF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
     "SG_KZ": "MWM",
     "SEMESTER_NR": "6",
-    "FACHKUERZEL": "SGW UMF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF UMF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
@@ -12330,15 +12547,15 @@
     "FB_NR": "19",
     "SG_KZ": "MWE",
     "SEMESTER_NR": "5",
-    "FACHKUERZEL": "SGW HUF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF HUF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
     "SG_KZ": "MWE",
     "SEMESTER_NR": "6",
-    "FACHKUERZEL": "SGW HUF M",
-    "ZEITSTEMPEL": "31.08.18"
+    "FACHKUERZEL": "WPF HUF M",
+    "ZEITSTEMPEL": "11.02.20"
   },
   {
     "FB_NR": "19",
@@ -12419,6 +12636,34 @@
   },
   {
     "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "SUBC M",
+    "ZEITSTEMPEL": "11.02.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF PUC",
+    "ZEITSTEMPEL": "12.03.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "EEL",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "ST E",
+    "ZEITSTEMPEL": "29.01.20"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "EEL",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "ST E",
+    "ZEITSTEMPEL": "29.01.20"
+  },
+  {
+    "FB_NR": "20",
     "SG_KZ": "AI",
     "SEMESTER_NR": "4",
     "FACHKUERZEL": "QQ2 SdA",
@@ -12430,6 +12675,13 @@
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "QQ2 SdA",
     "ZEITSTEMPEL": "06.08.19"
+  },
+  {
+    "FB_NR": "19",
+    "SG_KZ": "EAT",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "ST E",
+    "ZEITSTEMPEL": "29.01.20"
   },
   {
     "FB_NR": "19",
@@ -12479,6 +12731,13 @@
     "SEMESTER_NR": "1",
     "FACHKUERZEL": "TI1 AI TUT",
     "ZEITSTEMPEL": "01.03.17"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "4",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "17.02.20"
   },
   {
     "FB_NR": "20",
@@ -12542,6 +12801,13 @@
     "SEMESTER_NR": "5",
     "FACHKUERZEL": "QQ1SM",
     "ZEITSTEMPEL": "01.03.17"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "WPF IoT",
+    "ZEITSTEMPEL": "17.02.20"
   },
   {
     "FB_NR": "19",

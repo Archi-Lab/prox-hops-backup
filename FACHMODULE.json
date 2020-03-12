@@ -30,6 +30,12 @@
     "ID": "1664"
   },
   {
+    "FACHKUERZEL": "WPF IMI",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3205",
+    "ID": "2623"
+  },
+  {
     "FACHKUERZEL": "SUP PPDM",
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "2287",
@@ -46,6 +52,12 @@
     "DATEVERSION": "30.03.17",
     "MODULKUERZEL": "2575",
     "ID": "2011"
+  },
+  {
+    "FACHKUERZEL": "1580831467011",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3165",
+    "ID": "2583"
   },
   {
     "FACHKUERZEL": "CAETA MMW",
@@ -210,7 +222,7 @@
     "ID": "2141"
   },
   {
-    "FACHKUERZEL": "SGW UMF M",
+    "FACHKUERZEL": "WPF UMF M",
     "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1673",
     "ID": "2142"
@@ -310,6 +322,24 @@
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "3065",
     "ID": "2503"
+  },
+  {
+    "FACHKUERZEL": "WPF CE",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3225",
+    "ID": "2643"
+  },
+  {
+    "FACHKUERZEL": "WPF REQ",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3206",
+    "ID": "2626"
+  },
+  {
+    "FACHKUERZEL": "WPF PUC",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3245",
+    "ID": "2663"
   },
   {
     "FACHKUERZEL": "WPF2 ITM",
@@ -450,6 +480,12 @@
     "ID": "2485"
   },
   {
+    "FACHKUERZEL": "SUBC M",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3186",
+    "ID": "2606"
+  },
+  {
     "FACHKUERZEL": "WPF DK",
     "DATEVERSION": "03.09.13",
     "MODULKUERZEL": "2165",
@@ -544,6 +580,12 @@
     "DATEVERSION": "23.05.17",
     "MODULKUERZEL": "3105",
     "ID": "2542"
+  },
+  {
+    "FACHKUERZEL": "PROM M",
+    "DATEVERSION": "23.05.17",
+    "MODULKUERZEL": "3145",
+    "ID": "2562"
   },
   {
     "FACHKUERZEL": "COM WI V",
@@ -882,7 +924,7 @@
     "ID": "1078"
   },
   {
-    "FACHKUERZEL": "IP",
+    "FACHKUERZEL": "IP AI S",
     "DATEVERSION": "31.08.13",
     "MODULKUERZEL": "1623",
     "ID": "1079"
@@ -1933,7 +1975,7 @@
   },
   {
     "FACHKUERZEL": "leer_ok",
-    "DATEVERSION": "01.03.09",
+    "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1442",
     "ID": "1263"
   },
@@ -2364,7 +2406,7 @@
     "ID": "1336"
   },
   {
-    "FACHKUERZEL": "SGW HUF M",
+    "FACHKUERZEL": "WPF HUF M",
     "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1673",
     "ID": "1337"
@@ -2395,7 +2437,7 @@
   },
   {
     "FACHKUERZEL": "leer_ok",
-    "DATEVERSION": "01.03.09",
+    "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1198",
     "ID": "1342"
   },
@@ -2485,7 +2527,7 @@
   },
   {
     "FACHKUERZEL": "leer_ok",
-    "DATEVERSION": "01.03.09",
+    "DATEVERSION": "10.12.12",
     "MODULKUERZEL": "1265",
     "ID": "1357"
   },

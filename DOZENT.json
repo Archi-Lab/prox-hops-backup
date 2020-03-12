@@ -924,7 +924,7 @@
     "FACHBEREICH": "20",
     "ANREDE": "Frau",
     "TITEL": "Prof. Dr.",
-    "VORNAME": "Miriam",
+    "VORNAME": "Mirjam",
     "NACHNAME": "Bl\u00fcmm",
     "FUNKTION": "Professor",
     "ZEITSTEMPEL": "24.09.19"
@@ -938,6 +938,36 @@
     "NACHNAME": "Krampe",
     "FUNKTION": "Lehrbeauftragte",
     "ZEITSTEMPEL": "14.10.19"
+  },
+  {
+    "DOZENTKUERZEL": "MF",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Michael",
+    "NACHNAME": "Freiburg",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "10.02.20"
+  },
+  {
+    "DOZENTKUERZEL": "FHA",
+    "FACHBEREICH": "19",
+    "ANREDE": "Herr",
+    "TITEL": "Prof. Dr.",
+    "VORNAME": "Felix",
+    "NACHNAME": "Hackel\u00f6er",
+    "FUNKTION": "Professor",
+    "ZEITSTEMPEL": "10.02.20"
+  },
+  {
+    "DOZENTKUERZEL": "UM",
+    "FACHBEREICH": "20",
+    "ANREDE": "Herr",
+    "TITEL": "M.Sc.",
+    "VORNAME": "Uwe",
+    "NACHNAME": "M\u00fcsse",
+    "FUNKTION": "Lehrbeauftragter",
+    "ZEITSTEMPEL": "10.03.20"
   },
   {
     "DOZENTKUERZEL": "JS",
