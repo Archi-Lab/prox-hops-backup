@@ -12649,6 +12649,90 @@
     "ZEITSTEMPEL": "12.03.20"
   },
   {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "AI",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MI",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "TI",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "WI",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "ITM",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMI",
+    "SEMESTER_NR": "5",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
+    "FB_NR": "20",
+    "SG_KZ": "MMI",
+    "SEMESTER_NR": "6",
+    "FACHKUERZEL": "RUMW",
+    "ZEITSTEMPEL": "13.03.20"
+  },
+  {
     "FB_NR": "19",
     "SG_KZ": "EEL",
     "SEMESTER_NR": "4",

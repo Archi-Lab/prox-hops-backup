@@ -220,25 +220,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "MA2 AI ITM MI TUT",
-    "ZEIT": "5",
-    "RAUM_KZ": "3110",
-    "DOZENTKUERZEL": "KG",
-    "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "MA2 AB",
     "ZEIT": "3",
-    "RAUM_KZ": "0402",
+    "RAUM_KZ": "Kino 2",
     "DOZENTKUERZEL": "LA",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -418,28 +407,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "2",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "GW",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "3",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "GW",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "AUS E",
     "ZEIT": "2",
     "RAUM_KZ": "2100",
@@ -508,12 +475,12 @@
   {
     "FACHKUERZEL": "MA2 AB",
     "ZEIT": "7",
-    "RAUM_KZ": "0401",
+    "RAUM_KZ": "Kino 2",
     "DOZENTKUERZEL": "LA",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -585,12 +552,12 @@
   {
     "FACHKUERZEL": "MA1 AB",
     "ZEIT": "3",
-    "RAUM_KZ": "0402",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "NB",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -971,11 +938,11 @@
     "FACHKUERZEL": "IM1 WI V",
     "ZEIT": "8",
     "RAUM_KZ": "1400",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1123,13 +1090,13 @@
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "4",
-    "RAUM_KZ": "3109",
+    "ZEIT": "7",
+    "RAUM_KZ": "2113",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1212,12 +1179,12 @@
   {
     "FACHKUERZEL": "MA1 AB",
     "ZEIT": "2",
-    "RAUM_KZ": "0402",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "NB",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1236,10 +1203,10 @@
     "ZEIT": "9",
     "RAUM_KZ": "0402",
     "DOZENTKUERZEL": "WJ",
-    "WOCHENTAG": "5",
+    "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "11.02.20",
+    "ZEITSTEMPEL": "13.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1377,12 +1344,12 @@
   {
     "FACHKUERZEL": "MA2 AB",
     "ZEIT": "6",
-    "RAUM_KZ": "0401",
+    "RAUM_KZ": "Kino 2",
     "DOZENTKUERZEL": "LA",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1394,17 +1361,6 @@
     "VERANSTALTUNGSTYP": "V",
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "25.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "WPF GL",
-    "ZEIT": "7",
-    "RAUM_KZ": "3109",
-    "DOZENTKUERZEL": "WL",
-    "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1422,11 +1378,11 @@
     "FACHKUERZEL": "RUMW",
     "ZEIT": "11",
     "RAUM_KZ": "3108",
-    "DOZENTKUERZEL": "SK",
+    "DOZENTKUERZEL": "MLB",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "14.02.20",
+    "ZEITSTEMPEL": "13.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -1740,12 +1696,12 @@
   {
     "FACHKUERZEL": "PM IM DE",
     "ZEIT": "12",
-    "RAUM_KZ": "0504",
+    "RAUM_KZ": "2223",
     "DOZENTKUERZEL": "G\u00dc",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2126,11 +2082,11 @@
     "FACHKUERZEL": "EL E",
     "ZEIT": "2",
     "RAUM_KZ": "3107",
-    "DOZENTKUERZEL": "KN",
+    "DOZENTKUERZEL": "MLB",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "25.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2442,6 +2398,17 @@
     "SEMESTER": "SS20"
   },
   {
+    "FACHKUERZEL": "PPM MMI",
+    "ZEIT": "12",
+    "RAUM_KZ": "0504",
+    "DOZENTKUERZEL": "G\u00dc",
+    "WOCHENTAG": "3",
+    "VERANSTALTUNGSTYP": null,
+    "BEMERKUNG": null,
+    "ZEITSTEMPEL": "19.03.20",
+    "SEMESTER": "SS20"
+  },
+  {
     "FACHKUERZEL": "FEM M C",
     "ZEIT": "4",
     "RAUM_KZ": "3112",
@@ -2450,6 +2417,39 @@
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
+    "SEMESTER": "SS20"
+  },
+  {
+    "FACHKUERZEL": "DIS E A",
+    "ZEIT": "2",
+    "RAUM_KZ": "3103",
+    "DOZENTKUERZEL": "KE",
+    "WOCHENTAG": "4",
+    "VERANSTALTUNGSTYP": null,
+    "BEMERKUNG": null,
+    "ZEITSTEMPEL": "25.03.20",
+    "SEMESTER": "SS20"
+  },
+  {
+    "FACHKUERZEL": "DIS E A",
+    "ZEIT": "3",
+    "RAUM_KZ": "3103",
+    "DOZENTKUERZEL": "KE",
+    "WOCHENTAG": "4",
+    "VERANSTALTUNGSTYP": null,
+    "BEMERKUNG": null,
+    "ZEITSTEMPEL": "25.03.20",
+    "SEMESTER": "SS20"
+  },
+  {
+    "FACHKUERZEL": "DIS E A",
+    "ZEIT": "4",
+    "RAUM_KZ": "3103",
+    "DOZENTKUERZEL": "KE",
+    "WOCHENTAG": "4",
+    "VERANSTALTUNGSTYP": null,
+    "BEMERKUNG": null,
+    "ZEITSTEMPEL": "25.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2527,6 +2527,17 @@
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "06.03.20",
+    "SEMESTER": "SS20"
+  },
+  {
+    "FACHKUERZEL": "DIS E A",
+    "ZEIT": "5",
+    "RAUM_KZ": "3103",
+    "DOZENTKUERZEL": "KE",
+    "WOCHENTAG": "4",
+    "VERANSTALTUNGSTYP": null,
+    "BEMERKUNG": null,
+    "ZEITSTEMPEL": "25.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2631,12 +2642,12 @@
   {
     "FACHKUERZEL": "DB2 AI WI V",
     "ZEIT": "6",
-    "RAUM_KZ": "1400",
+    "RAUM_KZ": "Kino 2",
     "DOZENTKUERZEL": "FW",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "31.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2706,25 +2717,25 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF WF",
+    "FACHKUERZEL": "WPF GL",
     "ZEIT": "2",
     "RAUM_KZ": "0504",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "2",
-    "RAUM_KZ": "3109",
+    "ZEIT": "5",
+    "RAUM_KZ": "2113",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2763,12 +2774,12 @@
   {
     "FACHKUERZEL": "MA2 AB",
     "ZEIT": "2",
-    "RAUM_KZ": "0402",
+    "RAUM_KZ": "Kino 2",
     "DOZENTKUERZEL": "LA",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -2816,14 +2827,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF WF",
+    "FACHKUERZEL": "WPF GL",
     "ZEIT": "4",
     "RAUM_KZ": "0504",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -3325,11 +3336,11 @@
     "FACHKUERZEL": "IM1 AI P",
     "ZEIT": "8",
     "RAUM_KZ": "2107",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -3346,12 +3357,12 @@
   {
     "FACHKUERZEL": "CON M",
     "ZEIT": "3",
-    "RAUM_KZ": "3106",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "EK",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -3366,14 +3377,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "DIS E A",
+    "FACHKUERZEL": "EMS E A",
     "ZEIT": "6",
     "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "KE",
+    "DOZENTKUERZEL": "BU",
     "WOCHENTAG": "5",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "26.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -3677,11 +3688,11 @@
     "FACHKUERZEL": "IM1 WI V",
     "ZEIT": "9",
     "RAUM_KZ": "1400",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -3734,17 +3745,6 @@
     "RAUM_KZ": "3108",
     "DOZENTKUERZEL": "MW",
     "WOCHENTAG": "4",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "4",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "SH",
-    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
@@ -3850,17 +3850,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "ITC IM",
-    "ZEIT": "9",
-    "RAUM_KZ": "3112",
-    "DOZENTKUERZEL": "VI",
-    "WOCHENTAG": "4",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "DDMO M",
     "ZEIT": "2",
     "RAUM_KZ": "2108",
@@ -3917,13 +3906,13 @@
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "5",
-    "RAUM_KZ": "3109",
+    "ZEIT": "8",
+    "RAUM_KZ": "2113",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -3985,11 +3974,11 @@
     "FACHKUERZEL": "EL E",
     "ZEIT": "5",
     "RAUM_KZ": "3107",
-    "DOZENTKUERZEL": "KN",
+    "DOZENTKUERZEL": "MLB",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "25.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -4095,11 +4084,11 @@
     "FACHKUERZEL": "IM1 AI V",
     "ZEIT": "9",
     "RAUM_KZ": "1400",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -4130,17 +4119,6 @@
     "RAUM_KZ": "0402",
     "DOZENTKUERZEL": "SC",
     "WOCHENTAG": "5",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "PM IM DE",
-    "ZEIT": "11",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
-    "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
@@ -4235,14 +4213,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF GL",
+    "FACHKUERZEL": "WPF WF",
     "ZEIT": "3",
     "RAUM_KZ": "3109",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -4367,25 +4345,25 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF WF",
+    "FACHKUERZEL": "WPF GL",
     "ZEIT": "5",
     "RAUM_KZ": "0504",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
     "FACHKUERZEL": "RUMW",
     "ZEIT": "12",
     "RAUM_KZ": "3108",
-    "DOZENTKUERZEL": "SK",
+    "DOZENTKUERZEL": "MLB",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "14.02.20",
+    "ZEITSTEMPEL": "13.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -4493,17 +4471,6 @@
     "RAUM_KZ": "0502",
     "DOZENTKUERZEL": "KL",
     "WOCHENTAG": "5",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "PPM MMI",
-    "ZEIT": "12",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
-    "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
@@ -5182,24 +5149,13 @@
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "2",
+    "ZEIT": "5",
     "RAUM_KZ": "2102",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "TUTAME1",
-    "ZEIT": "8",
-    "RAUM_KZ": "2100",
-    "DOZENTKUERZEL": "MW",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5215,13 +5171,13 @@
   },
   {
     "FACHKUERZEL": "FT3  M",
-    "ZEIT": "4",
+    "ZEIT": "6",
     "RAUM_KZ": "0210",
     "DOZENTKUERZEL": "ZW",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5313,17 +5269,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "PM IM DE",
-    "ZEIT": "10",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
-    "WOCHENTAG": "3",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "PRE",
     "ZEIT": "4",
     "RAUM_KZ": "0214",
@@ -5404,11 +5349,11 @@
     "FACHKUERZEL": "IM1 WI V",
     "ZEIT": "10",
     "RAUM_KZ": "1400",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5555,17 +5500,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "PPM MMI",
-    "ZEIT": "11",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
-    "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "MCI WI P",
     "ZEIT": "10",
     "RAUM_KZ": "0502",
@@ -5601,12 +5535,12 @@
   {
     "FACHKUERZEL": "CON M",
     "ZEIT": "2",
-    "RAUM_KZ": "3106",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "EK",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5622,13 +5556,13 @@
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "3",
+    "ZEIT": "6",
     "RAUM_KZ": "2102",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5645,12 +5579,12 @@
   {
     "FACHKUERZEL": "PuL WI V",
     "ZEIT": "8",
-    "RAUM_KZ": "3110",
+    "RAUM_KZ": "2100",
     "DOZENTKUERZEL": "FK",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "26.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5698,25 +5632,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "ITC IM",
-    "ZEIT": "11",
-    "RAUM_KZ": "3112",
-    "DOZENTKUERZEL": "VI",
-    "WOCHENTAG": "4",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "MA1 AB",
     "ZEIT": "5",
-    "RAUM_KZ": "0401",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "NB",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5864,13 +5787,13 @@
   },
   {
     "FACHKUERZEL": "CE MMI",
-    "ZEIT": "8",
-    "RAUM_KZ": "3111",
-    "DOZENTKUERZEL": "KO",
-    "WOCHENTAG": "4",
+    "ZEIT": "6",
+    "RAUM_KZ": "2100",
+    "DOZENTKUERZEL": "BM",
+    "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "23.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -5887,12 +5810,12 @@
   {
     "FACHKUERZEL": "PM IM DE",
     "ZEIT": "11",
-    "RAUM_KZ": "0504",
+    "RAUM_KZ": "2223",
     "DOZENTKUERZEL": "G\u00dc",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -6149,25 +6072,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "ITC IM",
-    "ZEIT": "10",
-    "RAUM_KZ": "3112",
-    "DOZENTKUERZEL": "VI",
-    "WOCHENTAG": "4",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "DB2 AI WI V",
     "ZEIT": "5",
-    "RAUM_KZ": "1400",
+    "RAUM_KZ": "Kino 2",
     "DOZENTKUERZEL": "FW",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "31.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -6303,14 +6215,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "DIS E A",
+    "FACHKUERZEL": "EMS E A",
     "ZEIT": "7",
     "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "KE",
+    "DOZENTKUERZEL": "BU",
     "WOCHENTAG": "5",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "26.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -6427,11 +6339,11 @@
     "FACHKUERZEL": "EL E",
     "ZEIT": "4",
     "RAUM_KZ": "3107",
-    "DOZENTKUERZEL": "KN",
+    "DOZENTKUERZEL": "MLB",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "25.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -6943,12 +6855,12 @@
   {
     "FACHKUERZEL": "TUTWK2",
     "ZEIT": "9",
-    "RAUM_KZ": "3110",
+    "RAUM_KZ": "3106",
     "DOZENTKUERZEL": "DK",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "21.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7033,10 +6945,10 @@
     "ZEIT": "8",
     "RAUM_KZ": "0402",
     "DOZENTKUERZEL": "WJ",
-    "WOCHENTAG": "5",
+    "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "11.02.20",
+    "ZEITSTEMPEL": "13.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7120,11 +7032,11 @@
     "FACHKUERZEL": "IM1 AI P",
     "ZEIT": "3",
     "RAUM_KZ": "2107",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7205,17 +7117,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "PPM MMI",
-    "ZEIT": "10",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
-    "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "ST1 MI P",
     "ZEIT": "3",
     "RAUM_KZ": "2103",
@@ -7287,17 +7188,6 @@
     "RAUM_KZ": "1400",
     "DOZENTKUERZEL": "GI",
     "WOCHENTAG": "4",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "5",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "SH",
-    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
@@ -7494,11 +7384,11 @@
     "FACHKUERZEL": "IM1 AI V",
     "ZEIT": "8",
     "RAUM_KZ": "1400",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7623,14 +7513,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF WF",
+    "FACHKUERZEL": "WPF GL",
     "ZEIT": "3",
     "RAUM_KZ": "0504",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7656,14 +7546,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF GL",
+    "FACHKUERZEL": "WPF WF",
     "ZEIT": "5",
     "RAUM_KZ": "3109",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7679,13 +7569,13 @@
   },
   {
     "FACHKUERZEL": "TUTEM1 B",
-    "ZEIT": "6",
-    "RAUM_KZ": "3109",
+    "ZEIT": "8",
+    "RAUM_KZ": "3111",
     "DOZENTKUERZEL": "AW",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "5",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7702,23 +7592,23 @@
   {
     "FACHKUERZEL": "PM IM DE",
     "ZEIT": "10",
-    "RAUM_KZ": "0504",
+    "RAUM_KZ": "2223",
     "DOZENTKUERZEL": "G\u00dc",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
     "FACHKUERZEL": "MA2 AI ITM MI TUT",
-    "ZEIT": "6",
-    "RAUM_KZ": "2108",
+    "ZEIT": "8",
+    "RAUM_KZ": "3112",
     "DOZENTKUERZEL": "KG",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7734,13 +7624,13 @@
   },
   {
     "FACHKUERZEL": "CE MMI",
-    "ZEIT": "9",
-    "RAUM_KZ": "3111",
-    "DOZENTKUERZEL": "KO",
-    "WOCHENTAG": "4",
+    "ZEIT": "7",
+    "RAUM_KZ": "2100",
+    "DOZENTKUERZEL": "BM",
+    "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "23.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -7998,13 +7888,13 @@
   },
   {
     "FACHKUERZEL": "LPSM IM",
-    "ZEIT": "7",
-    "RAUM_KZ": "3109",
+    "ZEIT": "9",
+    "RAUM_KZ": "3110",
     "DOZENTKUERZEL": "SF",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": "V",
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -8065,12 +7955,12 @@
   {
     "FACHKUERZEL": "MA1 AB",
     "ZEIT": "4",
-    "RAUM_KZ": "0401",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "NB",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -8594,11 +8484,11 @@
     "FACHKUERZEL": "IM1 AI P",
     "ZEIT": "2",
     "RAUM_KZ": "2107",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -8682,11 +8572,11 @@
     "FACHKUERZEL": "IM1 AI V",
     "ZEIT": "10",
     "RAUM_KZ": "1400",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -8720,28 +8610,6 @@
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "25.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "PM IM DE",
-    "ZEIT": "12",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
-    "WOCHENTAG": "3",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "MA2 AI ITM MI TUT",
-    "ZEIT": "4",
-    "RAUM_KZ": "3110",
-    "DOZENTKUERZEL": "KG",
-    "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
     "SEMESTER": "SS20"
   },
   {
@@ -8976,17 +8844,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "2",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "SH",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "AM IMSE",
     "ZEIT": "11",
     "RAUM_KZ": "0505",
@@ -8995,17 +8852,6 @@
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "17.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "5",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "GW",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
     "SEMESTER": "SS20"
   },
   {
@@ -9098,24 +8944,24 @@
   },
   {
     "FACHKUERZEL": "LPSM IM",
-    "ZEIT": "8",
-    "RAUM_KZ": "3109",
+    "ZEIT": "10",
+    "RAUM_KZ": "3110",
     "DOZENTKUERZEL": "SF",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": "V",
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "DIS E A",
+    "FACHKUERZEL": "EMS E A",
     "ZEIT": "9",
     "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "KE",
+    "DOZENTKUERZEL": "BU",
     "WOCHENTAG": "5",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "26.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -9175,13 +9021,13 @@
   },
   {
     "FACHKUERZEL": "FT3  M",
-    "ZEIT": "5",
+    "ZEIT": "7",
     "RAUM_KZ": "0210",
     "DOZENTKUERZEL": "ZW",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -9659,13 +9505,13 @@
   },
   {
     "FACHKUERZEL": "TUTEM1 B",
-    "ZEIT": "5",
-    "RAUM_KZ": "3109",
+    "ZEIT": "9",
+    "RAUM_KZ": "3111",
     "DOZENTKUERZEL": "AW",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "5",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -9861,17 +9707,6 @@
     "RAUM_KZ": "3104",
     "DOZENTKUERZEL": "NN",
     "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "ITC IM",
-    "ZEIT": "8",
-    "RAUM_KZ": "3112",
-    "DOZENTKUERZEL": "VI",
-    "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
@@ -10343,11 +10178,11 @@
     "FACHKUERZEL": "EL E",
     "ZEIT": "3",
     "RAUM_KZ": "3107",
-    "DOZENTKUERZEL": "KN",
+    "DOZENTKUERZEL": "MLB",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "25.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -10516,17 +10351,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "4",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "GW",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "NGDM2 MMI",
     "ZEIT": "8",
     "RAUM_KZ": "3216",
@@ -10626,14 +10450,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF GL",
+    "FACHKUERZEL": "WPF WF",
     "ZEIT": "4",
     "RAUM_KZ": "3109",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -10704,24 +10528,24 @@
   },
   {
     "FACHKUERZEL": "PPM MMI",
-    "ZEIT": "12",
+    "ZEIT": "13",
     "RAUM_KZ": "0504",
     "DOZENTKUERZEL": "G\u00dc",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF GL",
+    "FACHKUERZEL": "WPF WF",
     "ZEIT": "6",
     "RAUM_KZ": "3109",
     "DOZENTKUERZEL": "WL",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -11122,13 +10946,13 @@
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "4",
+    "ZEIT": "7",
     "RAUM_KZ": "2102",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -11136,17 +10960,6 @@
     "ZEIT": "3",
     "RAUM_KZ": "2223",
     "DOZENTKUERZEL": "FW",
-    "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "PPM MMI",
-    "ZEIT": "13",
-    "RAUM_KZ": "0504",
-    "DOZENTKUERZEL": "G\u00dc",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
@@ -11276,13 +11089,13 @@
   },
   {
     "FACHKUERZEL": "FT3  M",
-    "ZEIT": "2",
+    "ZEIT": "9",
     "RAUM_KZ": "0210",
     "DOZENTKUERZEL": "ZW",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -12023,17 +11836,6 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "WPF BCB",
-    "ZEIT": "3",
-    "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "SH",
-    "WOCHENTAG": "1",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
     "FACHKUERZEL": "AP2 AI ITM MI WI V",
     "ZEIT": "3",
     "RAUM_KZ": "1400",
@@ -12334,11 +12136,11 @@
     "FACHKUERZEL": "IM1 AI P",
     "ZEIT": "9",
     "RAUM_KZ": "2107",
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -12630,23 +12432,23 @@
   {
     "FACHKUERZEL": "TUTWK2",
     "ZEIT": "8",
-    "RAUM_KZ": "3110",
+    "RAUM_KZ": "3106",
     "DOZENTKUERZEL": "DK",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "21.02.20",
+    "ZEITSTEMPEL": "27.03.20",
     "SEMESTER": "SS20"
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "3",
-    "RAUM_KZ": "3109",
+    "ZEIT": "6",
+    "RAUM_KZ": "2113",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -12685,12 +12487,12 @@
   {
     "FACHKUERZEL": "MA2 AI ITM MI TUT",
     "ZEIT": "7",
-    "RAUM_KZ": "2108",
+    "RAUM_KZ": "3112",
     "DOZENTKUERZEL": "KG",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "4",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -13455,23 +13257,23 @@
   {
     "FACHKUERZEL": "CON M",
     "ZEIT": "4",
-    "RAUM_KZ": "3106",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "EK",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {
     "FACHKUERZEL": "PuL WI V",
     "ZEIT": "9",
-    "RAUM_KZ": "3110",
+    "RAUM_KZ": "2100",
     "DOZENTKUERZEL": "FK",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "26.02.20",
+    "ZEITSTEMPEL": "20.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -13480,17 +13282,6 @@
     "RAUM_KZ": "1611",
     "DOZENTKUERZEL": "EA",
     "WOCHENTAG": "2",
-    "VERANSTALTUNGSTYP": null,
-    "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
-    "SEMESTER": "SS20"
-  },
-  {
-    "FACHKUERZEL": "TUTAME1",
-    "ZEIT": "9",
-    "RAUM_KZ": "2100",
-    "DOZENTKUERZEL": "MW",
-    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
     "ZEITSTEMPEL": "03.02.20",
@@ -13575,13 +13366,13 @@
   },
   {
     "FACHKUERZEL": "FT3  M",
-    "ZEIT": "3",
+    "ZEIT": "8",
     "RAUM_KZ": "0210",
     "DOZENTKUERZEL": "ZW",
-    "WOCHENTAG": "3",
+    "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "01.04.20",
     "SEMESTER": "SS20"
   },
   {
@@ -14245,14 +14036,14 @@
     "SEMESTER": "SS20"
   },
   {
-    "FACHKUERZEL": "DIS E A",
+    "FACHKUERZEL": "EMS E A",
     "ZEIT": "8",
     "RAUM_KZ": "3100",
-    "DOZENTKUERZEL": "KE",
+    "DOZENTKUERZEL": "BU",
     "WOCHENTAG": "5",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "26.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -14313,12 +14104,12 @@
   {
     "FACHKUERZEL": "PM IM DE",
     "ZEIT": "13",
-    "RAUM_KZ": "0504",
+    "RAUM_KZ": "2223",
     "DOZENTKUERZEL": "G\u00dc",
     "WOCHENTAG": "2",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -14411,13 +14202,13 @@
   },
   {
     "FACHKUERZEL": "DaF IM AITM",
-    "ZEIT": "5",
+    "ZEIT": "8",
     "RAUM_KZ": "2102",
     "DOZENTKUERZEL": "EC",
     "WOCHENTAG": "1",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "19.03.20",
     "SEMESTER": "SS20"
   },
   {
@@ -14445,12 +14236,12 @@
   {
     "FACHKUERZEL": "CON M",
     "ZEIT": "5",
-    "RAUM_KZ": "3106",
+    "RAUM_KZ": "Kino 7",
     "DOZENTKUERZEL": "EK",
     "WOCHENTAG": "3",
     "VERANSTALTUNGSTYP": null,
     "BEMERKUNG": null,
-    "ZEITSTEMPEL": "03.02.20",
+    "ZEITSTEMPEL": "16.03.20",
     "SEMESTER": "SS20"
   },
   {

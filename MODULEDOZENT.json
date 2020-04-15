@@ -1791,7 +1791,7 @@
     "ID": "2849"
   },
   {
-    "DOZENTKUERZEL": "KO",
+    "DOZENTKUERZEL": "BM",
     "MODULKUERZEL": "2355",
     "ZUSATZ_LEHRENDER": null,
     "MODULVERANTWORTUNG": "1",
@@ -3771,7 +3771,7 @@
     "ID": "1769"
   },
   {
-    "DOZENTKUERZEL": "KI",
+    "DOZENTKUERZEL": "ZM",
     "MODULKUERZEL": "1218",
     "ZUSATZ_LEHRENDER": null,
     "MODULVERANTWORTUNG": "1",
@@ -4237,15 +4237,6 @@
     "LEHREND": "1",
     "DATEVERSION": "21.11.11",
     "ID": "1845"
-  },
-  {
-    "DOZENTKUERZEL": "KI",
-    "MODULKUERZEL": "1144",
-    "ZUSATZ_LEHRENDER": null,
-    "MODULVERANTWORTUNG": "1",
-    "LEHREND": "1",
-    "DATEVERSION": "31.08.13",
-    "ID": "1846"
   },
   {
     "DOZENTKUERZEL": "KI",
