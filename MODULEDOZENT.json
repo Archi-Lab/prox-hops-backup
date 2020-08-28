@@ -3150,6 +3150,15 @@
     "ID": "5241"
   },
   {
+    "DOZENTKUERZEL": "RB",
+    "MODULKUERZEL": "1378",
+    "ZUSATZ_LEHRENDER": null,
+    "MODULVERANTWORTUNG": "1",
+    "LEHREND": "1",
+    "DATEVERSION": "01.03.09",
+    "ID": "5276"
+  },
+  {
     "DOZENTKUERZEL": "FH",
     "MODULKUERZEL": "2352",
     "ZUSATZ_LEHRENDER": null,
@@ -3841,15 +3850,6 @@
     "LEHREND": "1",
     "DATEVERSION": "03.09.13",
     "ID": "1779"
-  },
-  {
-    "DOZENTKUERZEL": "KI",
-    "MODULKUERZEL": "1637",
-    "ZUSATZ_LEHRENDER": null,
-    "MODULVERANTWORTUNG": "1",
-    "LEHREND": "1",
-    "DATEVERSION": "03.09.13",
-    "ID": "1780"
   },
   {
     "DOZENTKUERZEL": "G\u00dc",
@@ -5461,6 +5461,15 @@
     "LEHREND": "1",
     "DATEVERSION": "23.05.17",
     "ID": "1997"
+  },
+  {
+    "DOZENTKUERZEL": "FHA",
+    "MODULKUERZEL": "1424",
+    "ZUSATZ_LEHRENDER": null,
+    "MODULVERANTWORTUNG": "1",
+    "LEHREND": "1",
+    "DATEVERSION": "10.12.12",
+    "ID": "5256"
   },
   {
     "DOZENTKUERZEL": "JD",

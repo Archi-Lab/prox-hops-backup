@@ -10662,6 +10662,13 @@
   },
   {
     "FB_NR": "20",
+    "SG_KZ": "IM",
+    "SEMESTER_NR": "2",
+    "FACHKUERZEL": "DM IM",
+    "ZEITSTEMPEL": "21.04.20"
+  },
+  {
+    "FB_NR": "20",
     "SG_KZ": "MMI",
     "SEMESTER_NR": "3",
     "FACHKUERZEL": "WPF B SD4UX",

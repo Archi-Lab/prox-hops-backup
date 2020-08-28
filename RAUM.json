@@ -1605,6 +1605,21 @@
     "ANZAHL_PC": null
   },
   {
+    "RAUM_KZ": "ZOOM",
+    "ORT": "GM",
+    "BEZEICHNUNG": "Dummy",
+    "RAUMART": "Labor",
+    "ANZAHL_SITZPLATZ": null,
+    "ANZAHL_SITZPLATZ_PRUEFUNG_MAX": null,
+    "ANZAHL_SITZPLATZ_PRUEFUNG_OPT": null,
+    "LE_PRIO_PRUEFUNG": null,
+    "ISTLEHRRAUM": "0",
+    "TELEFONNUMMER": null,
+    "ANZAHL_BEAMER": null,
+    "ANZAHL_OVERHEADPROJEKTOR": null,
+    "ANZAHL_PC": null
+  },
+  {
     "RAUM_KZ": "0502",
     "ORT": "GM",
     "BEZEICHNUNG": "H\u00f6rsaal im Ferchaugeb\u00e4ude",
